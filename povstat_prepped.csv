@@ -2554,41 +2554,41 @@
 2552,Magnitude of Subsistence Poor Population,2009,Region I,356934.0,Region,Region I,population
 2553,Magnitude of Subsistence Poor Population,2012,Region I,268508.0,Region,Region I,population
 2554,Magnitude of Subsistence Poor Population,2015,Region I,172095.0,Region,Region I,population
-2555,Annual Per Capita Poverty Threshold (in Pesos),1991,Region II,6525.0,Province,Region II,in Pesos
-2556,Annual Per Capita Poverty Threshold (in Pesos),2006,Region II,13944.0,Province,Region II,in Pesos
-2557,Annual Per Capita Poverty Threshold (in Pesos),2009,Region II,17330.0,Province,Region II,in Pesos
-2558,Annual Per Capita Poverty Threshold (in Pesos),2012,Region II,19125.0,Province,Region II,in Pesos
-2559,Annual Per Capita Poverty Threshold (in Pesos),2015,Region II,21860.0,Province,Region II,in Pesos
-2560,Poverty Incidence among Families (%),1991,Region II,37.3,Province,Region II,%
-2561,Poverty Incidence among Families (%),2006,Region II,21.7,Province,Region II,%
-2562,Poverty Incidence among Families (%),2009,Region II,20.2,Province,Region II,%
-2563,Poverty Incidence among Families (%),2012,Region II,17.0,Province,Region II,%
-2564,Poverty Incidence among Families (%),2015,Region II,11.7,Province,Region II,%
-2565,Magnitude of Poor Families,1991,Region II,182360.0,Province,Region II,families
-2566,Magnitude of Poor Families,2006,Region II,142518.0,Province,Region II,families
-2567,Magnitude of Poor Families,2009,Region II,143847.0,Province,Region II,families
-2568,Magnitude of Poor Families,2012,Region II,130965.0,Province,Region II,families
-2569,Magnitude of Poor Families,2015,Region II,95367.0,Province,Region II,families
-2570,Poverty Incidence among Population (%),1991,Region II,42.8,Province,Region II,%
-2571,Poverty Incidence among Population (%),2006,Region II,26.8,Province,Region II,%
-2572,Poverty Incidence among Population (%),2009,Region II,25.5,Province,Region II,%
-2573,Poverty Incidence among Population (%),2012,Region II,22.1,Province,Region II,%
-2574,Poverty Incidence among Population (%),2015,Region II,15.8,Province,Region II,%
-2575,Magnitude of Poor Population,1991,Region II,1028542.0,Province,Region II,population
-2576,Magnitude of Poor Population,2006,Region II,814425.0,Province,Region II,population
-2577,Magnitude of Poor Population,2009,Region II,790985.0,Province,Region II,population
-2578,Magnitude of Poor Population,2012,Region II,716754.0,Province,Region II,population
-2579,Magnitude of Poor Population,2015,Region II,553616.0,Province,Region II,population
-2580,Subsistence Incidence among Population (%),1991,Region II,21.2,Province,Region II,%
-2581,Subsistence Incidence among Population (%),2006,Region II,9.6,Province,Region II,%
-2582,Subsistence Incidence among Population (%),2009,Region II,8.9,Province,Region II,%
-2583,Subsistence Incidence among Population (%),2012,Region II,5.9,Province,Region II,%
-2584,Subsistence Incidence among Population (%),2015,Region II,2.6,Province,Region II,%
-2585,Magnitude of Subsistence Poor Population,1991,Region II,509165.0,Province,Region II,population
-2586,Magnitude of Subsistence Poor Population,2006,Region II,292039.0,Province,Region II,population
-2587,Magnitude of Subsistence Poor Population,2009,Region II,274970.0,Province,Region II,population
-2588,Magnitude of Subsistence Poor Population,2012,Region II,189758.0,Province,Region II,population
-2589,Magnitude of Subsistence Poor Population,2015,Region II,91001.0,Province,Region II,population
+2555,Annual Per Capita Poverty Threshold (in Pesos),1991,Region II,6525.0,Region,Region II,in Pesos
+2556,Annual Per Capita Poverty Threshold (in Pesos),2006,Region II,13944.0,Region,Region II,in Pesos
+2557,Annual Per Capita Poverty Threshold (in Pesos),2009,Region II,17330.0,Region,Region II,in Pesos
+2558,Annual Per Capita Poverty Threshold (in Pesos),2012,Region II,19125.0,Region,Region II,in Pesos
+2559,Annual Per Capita Poverty Threshold (in Pesos),2015,Region II,21860.0,Region,Region II,in Pesos
+2560,Poverty Incidence among Families (%),1991,Region II,37.3,Region,Region II,%
+2561,Poverty Incidence among Families (%),2006,Region II,21.7,Region,Region II,%
+2562,Poverty Incidence among Families (%),2009,Region II,20.2,Region,Region II,%
+2563,Poverty Incidence among Families (%),2012,Region II,17.0,Region,Region II,%
+2564,Poverty Incidence among Families (%),2015,Region II,11.7,Region,Region II,%
+2565,Magnitude of Poor Families,1991,Region II,182360.0,Region,Region II,families
+2566,Magnitude of Poor Families,2006,Region II,142518.0,Region,Region II,families
+2567,Magnitude of Poor Families,2009,Region II,143847.0,Region,Region II,families
+2568,Magnitude of Poor Families,2012,Region II,130965.0,Region,Region II,families
+2569,Magnitude of Poor Families,2015,Region II,95367.0,Region,Region II,families
+2570,Poverty Incidence among Population (%),1991,Region II,42.8,Region,Region II,%
+2571,Poverty Incidence among Population (%),2006,Region II,26.8,Region,Region II,%
+2572,Poverty Incidence among Population (%),2009,Region II,25.5,Region,Region II,%
+2573,Poverty Incidence among Population (%),2012,Region II,22.1,Region,Region II,%
+2574,Poverty Incidence among Population (%),2015,Region II,15.8,Region,Region II,%
+2575,Magnitude of Poor Population,1991,Region II,1028542.0,Region,Region II,population
+2576,Magnitude of Poor Population,2006,Region II,814425.0,Region,Region II,population
+2577,Magnitude of Poor Population,2009,Region II,790985.0,Region,Region II,population
+2578,Magnitude of Poor Population,2012,Region II,716754.0,Region,Region II,population
+2579,Magnitude of Poor Population,2015,Region II,553616.0,Region,Region II,population
+2580,Subsistence Incidence among Population (%),1991,Region II,21.2,Region,Region II,%
+2581,Subsistence Incidence among Population (%),2006,Region II,9.6,Region,Region II,%
+2582,Subsistence Incidence among Population (%),2009,Region II,8.9,Region,Region II,%
+2583,Subsistence Incidence among Population (%),2012,Region II,5.9,Region,Region II,%
+2584,Subsistence Incidence among Population (%),2015,Region II,2.6,Region,Region II,%
+2585,Magnitude of Subsistence Poor Population,1991,Region II,509165.0,Region,Region II,population
+2586,Magnitude of Subsistence Poor Population,2006,Region II,292039.0,Region,Region II,population
+2587,Magnitude of Subsistence Poor Population,2009,Region II,274970.0,Region,Region II,population
+2588,Magnitude of Subsistence Poor Population,2012,Region II,189758.0,Region,Region II,population
+2589,Magnitude of Subsistence Poor Population,2015,Region II,91001.0,Region,Region II,population
 2590,Annual Per Capita Poverty Threshold (in Pesos),1991,Region III,6635.0,Region,Region III,in Pesos
 2591,Annual Per Capita Poverty Threshold (in Pesos),2006,Region III,14422.0,Region,Region III,in Pesos
 2592,Annual Per Capita Poverty Threshold (in Pesos),2009,Region III,18188.0,Region,Region III,in Pesos
