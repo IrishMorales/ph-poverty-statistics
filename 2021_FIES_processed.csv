@@ -1,0 +1,736 @@
+Variable,Year,Province,Value,Admin_Lvl,Region,Unit
+Annual Per Capita Poverty Threshold (in Pesos),2021,PHILIPPINES,28871,Country,Philippines,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,NCR,32978,Region,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,1st District,32978,District,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,2nd District,32978,District,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,3rd District,32978,District,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,4th District,32978,District,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,CAR,28304,Region,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Abra,29321,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Apayao,25694,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Benguet,27519,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Ifugao,28734,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Kalinga,25447,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Mt. Province,31063,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region I,31113,Region,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Ilocos Norte,31031,Province,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Ilocos Sur,32752,Province,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,La Union,27909,Province,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Pangasinan,31240,Province,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region II,28292,Region,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Batanes,35550,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Cagayan,26954,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Isabela,29452,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Nueva Vizcaya,25514,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Quirino,27060,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region III,31584,Region,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Aurora,30282,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Bataan,31046,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Bulacan,33591,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Nueva Ecija,29751,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Pampanga,33122,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Tarlac,29704,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Zambales,33383,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region IV-A,31059,Region,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Batangas,30828,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Cavite,35843,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Laguna,29892,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Quezon,27151,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Rizal,32217,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region IV-B,26321,Region,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Marinduque ,26959,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Occidental Mindoro,26661,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Oriental Mindoro,26265,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Palawan,24127,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Romblon,28749,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region V,27675,Region,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Albay,27346,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Camarines Norte,27571,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Camarines Sur,28651,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Catanduanes,28014,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Masbate,25545,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Sorsogon,27133,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region VI,27083,Region,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Aklan,26837,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Antique,26633,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Capiz,26692,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Guimaras,27090,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Iloilo,27821,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Negros Occidental,26782,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region VII,31220,Region,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Bohol,26853,Province,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Cebu,33657,Province,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Negros Oriental,26024,Province,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Siquijor,25603,Province,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region VIII,26848,Region,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Biliran,28293,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Eastern Samar,28924,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Leyte,26570,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Northern Samar,26572,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Southern Leyte,28799,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Samar,25259,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region IX,28739,Region,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Zamboanga del Norte,33799,Province,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Zamboanga del Sur,24066,Province,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Zamboanga Sibugay,24708,Province,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Isabela City,23925,Province,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region X,28836,Region,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Bukidnon,29040,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Camiguin,28514,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Lanao del Norte,28589,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Misamis Occidental,30062,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Misamis Oriental,28270,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region XI,28102,Region,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Davao del Norte,27354,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Davao del Sur,29749,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Davao Oriental,27806,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Davao de Oro,26161,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Davao Occidental,28511,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region XII,26443,Region,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Cotabato,27473,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Sarangani,24070,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,South Cotabato,24455,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Sultan Kudarat,25295,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Cotabato City,33890,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Region XIII,27335,Region,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Agusan del Norte,27722,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Agusan del Sur,27821,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Surigao Del Norte,26444,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Surigao Del Sur,26441,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Dinagat Islands,28907,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,ARMM,28293,Region,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Basilan,26728,Province,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Lanao del Sur,29083,Province,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Maguindanao,25371,Province,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Sulu,31782,Province,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2021,Tawi-tawi,26336,Province,ARMM,in Pesos
+Poverty Incidence among Families (%),2021,PHILIPPINES,  13.2 ,Country,Philippines,%
+Poverty Incidence among Families (%),2021,NCR,  2.2 ,Region,NCR,%
+Poverty Incidence among Families (%),2021,1st District,1.1,District,NCR,%
+Poverty Incidence among Families (%),2021,2nd District,1.6,District,NCR,%
+Poverty Incidence among Families (%),2021,3rd District,3.3,District,NCR,%
+Poverty Incidence among Families (%),2021,4th District,2.5,District,NCR,%
+Poverty Incidence among Families (%),2021,CAR,  6.9 ,Region,CAR,%
+Poverty Incidence among Families (%),2021,Abra,  15.8 ,Province,CAR,%
+Poverty Incidence among Families (%),2021,Apayao,  4.7 ,Province,CAR,%
+Poverty Incidence among Families (%),2021,Benguet,  3.9 ,Province,CAR,%
+Poverty Incidence among Families (%),2021,Ifugao,  6.0 ,Province,CAR,%
+Poverty Incidence among Families (%),2021,Kalinga,  5.6 ,Province,CAR,%
+Poverty Incidence among Families (%),2021,Mt. Province,  15.3 ,Province,CAR,%
+Poverty Incidence among Families (%),2021,Region I,  11.0 ,Region,Region I,%
+Poverty Incidence among Families (%),2021,Ilocos Norte,  1.7 ,Province,Region I,%
+Poverty Incidence among Families (%),2021,Ilocos Sur,  11.5 ,Province,Region I,%
+Poverty Incidence among Families (%),2021,La Union,  6.6 ,Province,Region I,%
+Poverty Incidence among Families (%),2021,Pangasinan,  13.9 ,Province,Region I,%
+Poverty Incidence among Families (%),2021,Region II,  11.7 ,Region,Region II,%
+Poverty Incidence among Families (%),2021,Batanes,  2.6 ,Province,Region II,%
+Poverty Incidence among Families (%),2021,Cagayan,  7.3 ,Province,Region II,%
+Poverty Incidence among Families (%),2021,Isabela,  15.9 ,Province,Region II,%
+Poverty Incidence among Families (%),2021,Nueva Vizcaya,  10.8 ,Province,Region II,%
+Poverty Incidence among Families (%),2021,Quirino,  6.2 ,Province,Region II,%
+Poverty Incidence among Families (%),2021,Region III,  8.3 ,Region,Region III,%
+Poverty Incidence among Families (%),2021,Aurora,  16.5 ,Province,Region III,%
+Poverty Incidence among Families (%),2021,Bataan,  9.0 ,Province,Region III,%
+Poverty Incidence among Families (%),2021,Bulacan,  8.3 ,Province,Region III,%
+Poverty Incidence among Families (%),2021,Nueva Ecija,  10.0 ,Province,Region III,%
+Poverty Incidence among Families (%),2021,Pampanga,  2.9 ,Province,Region III,%
+Poverty Incidence among Families (%),2021,Tarlac,  8.1 ,Province,Region III,%
+Poverty Incidence among Families (%),2021,Zambales,  17.7 ,Province,Region III,%
+Poverty Incidence among Families (%),2021,Region IV-A,  7.2 ,Region,Region IV-A,%
+Poverty Incidence among Families (%),2021,Batangas,  4.3 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2021,Cavite,  7.1 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2021,Laguna,  6.9 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2021,Quezon,  16.3 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2021,Rizal,  4.3 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2021,Region IV-B,  15.0 ,Region,Region IV-B,%
+Poverty Incidence among Families (%),2021,Marinduque ,  15.6 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2021,Occidental Mindoro,  23.0 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2021,Oriental Mindoro,  12.8 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2021,Palawan,  9.4 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2021,Romblon,  31.0 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2021,Region V,  21.9 ,Region,Region V,%
+Poverty Incidence among Families (%),2021,Albay,  15.4 ,Province,Region V,%
+Poverty Incidence among Families (%),2021,Camarines Norte,  16.6 ,Province,Region V,%
+Poverty Incidence among Families (%),2021,Camarines Sur,  29.8 ,Province,Region V,%
+Poverty Incidence among Families (%),2021,Catanduanes,  16.8 ,Province,Region V,%
+Poverty Incidence among Families (%),2021,Masbate,  20.2 ,Province,Region V,%
+Poverty Incidence among Families (%),2021,Sorsogon,  21.7 ,Province,Region V,%
+Poverty Incidence among Families (%),2021,Region VI,  13.8 ,Region,Region VI,%
+Poverty Incidence among Families (%),2021,Aklan,  13.9 ,Province,Region VI,%
+Poverty Incidence among Families (%),2021,Antique,  18.2 ,Province,Region VI,%
+Poverty Incidence among Families (%),2021,Capiz,  6.1 ,Province,Region VI,%
+Poverty Incidence among Families (%),2021,Guimaras,  7.3 ,Province,Region VI,%
+Poverty Incidence among Families (%),2021,Iloilo,  12.6 ,Province,Region VI,%
+Poverty Incidence among Families (%),2021,Negros Occidental,  16.4 ,Province,Region VI,%
+Poverty Incidence among Families (%),2021,Region VII,  22.1 ,Region,Region VII,%
+Poverty Incidence among Families (%),2021,Bohol,  19.1 ,Province,Region VII,%
+Poverty Incidence among Families (%),2021,Cebu,  22.8 ,Province,Region VII,%
+Poverty Incidence among Families (%),2021,Negros Oriental,  23.6 ,Province,Region VII,%
+Poverty Incidence among Families (%),2021,Siquijor,  2.2 ,Province,Region VII,%
+Poverty Incidence among Families (%),2021,Region VIII,  22.2 ,Region,Region VIII,%
+Poverty Incidence among Families (%),2021,Biliran,  19.9 ,Province,Region VIII,%
+Poverty Incidence among Families (%),2021,Eastern Samar,29.4,Province,Region VIII,%
+Poverty Incidence among Families (%),2021,Leyte,20.8,Province,Region VIII,%
+Poverty Incidence among Families (%),2021,Northern Samar,19.3,Province,Region VIII,%
+Poverty Incidence among Families (%),2021,Southern Leyte,  16.0 ,Province,Region VIII,%
+Poverty Incidence among Families (%),2021,Samar,  27.0 ,Province,Region VIII,%
+Poverty Incidence among Families (%),2021,Region IX,  23.4 ,Region,Region IX,%
+Poverty Incidence among Families (%),2021,Zamboanga del Norte,  40.8 ,Province,Region IX,%
+Poverty Incidence among Families (%),2021,Zamboanga del Sur,  13.4 ,Province,Region IX,%
+Poverty Incidence among Families (%),2021,Zamboanga Sibugay,  26.0 ,Province,Region IX,%
+Poverty Incidence among Families (%),2021,Isabela City,  12.7 ,Province,Region IX,%
+Poverty Incidence among Families (%),2021,Region X,  19.2 ,Region,Region X,%
+Poverty Incidence among Families (%),2021,Bukidnon,  22.8 ,Province,Region X,%
+Poverty Incidence among Families (%),2021,Camiguin,  14.7 ,Province,Region X,%
+Poverty Incidence among Families (%),2021,Lanao del Norte,  25.5 ,Province,Region X,%
+Poverty Incidence among Families (%),2021,Misamis Occidental,  18.3 ,Province,Region X,%
+Poverty Incidence among Families (%),2021,Misamis Oriental,  13.0 ,Province,Region X,%
+Poverty Incidence among Families (%),2021,Region XI,  11.9 ,Region,Region XI,%
+Poverty Incidence among Families (%),2021,Davao del Norte,7.3,Province,Region XI,%
+Poverty Incidence among Families (%),2021,Davao del Sur,7.2,Province,Region XI,%
+Poverty Incidence among Families (%),2021,Davao Oriental,21.8,Province,Region XI,%
+Poverty Incidence among Families (%),2021,Davao de Oro,17.7,Province,Region XI,%
+Poverty Incidence among Families (%),2021,Davao Occidental,34.5,Province,Region XI,%
+Poverty Incidence among Families (%),2021,Region XII,  21.4 ,Region,Region XII,%
+Poverty Incidence among Families (%),2021,Cotabato,  23.6 ,Province,Region XII,%
+Poverty Incidence among Families (%),2021,Sarangani,  33.5 ,Province,Region XII,%
+Poverty Incidence among Families (%),2021,South Cotabato,  12.8 ,Province,Region XII,%
+Poverty Incidence among Families (%),2021,Sultan Kudarat,  23.8 ,Province,Region XII,%
+Poverty Incidence among Families (%),2021,Cotabato City,  31.3 ,Province,Region XII,%
+Poverty Incidence among Families (%),2021,Region XIII,  25.9 ,Region,Region XIII,%
+Poverty Incidence among Families (%),2021,Agusan del Norte,  23.5 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2021,Agusan del Sur,  33.4 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2021,Surigao Del Norte,  21.2 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2021,Surigao Del Sur,  24.0 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2021,Dinagat Islands,  26.1 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2021,ARMM,  29.8 ,Region,ARMM,%
+Poverty Incidence among Families (%),2021,Basilan,  42.5 ,Province,ARMM,%
+Poverty Incidence among Families (%),2021,Lanao del Sur,  7.4 ,Province,ARMM,%
+Poverty Incidence among Families (%),2021,Maguindanao,  29.8 ,Province,ARMM,%
+Poverty Incidence among Families (%),2021,Sulu,  51.0 ,Province,ARMM,%
+Poverty Incidence among Families (%),2021,Tawi-tawi,  28.1 ,Province,ARMM,%
+Poverty Incidence among Population (%),2021,PHILIPPINES,  18.1 ,Country,Philippines,%
+Poverty Incidence among Population (%),2021,NCR,  3.5 ,Region,NCR,%
+Poverty Incidence among Population (%),2021,1st District,1.7,District,NCR,%
+Poverty Incidence among Population (%),2021,2nd District,2.8,District,NCR,%
+Poverty Incidence among Population (%),2021,3rd District,4.9,District,NCR,%
+Poverty Incidence among Population (%),2021,4th District,4.1,District,NCR,%
+Poverty Incidence among Population (%),2021,CAR,  9.9 ,Region,CAR,%
+Poverty Incidence among Population (%),2021,Abra,  21.5 ,Province,CAR,%
+Poverty Incidence among Population (%),2021,Apayao,  6.8 ,Province,CAR,%
+Poverty Incidence among Population (%),2021,Benguet,  5.6 ,Province,CAR,%
+Poverty Incidence among Population (%),2021,Ifugao,  8.1 ,Province,CAR,%
+Poverty Incidence among Population (%),2021,Kalinga,  8.3 ,Province,CAR,%
+Poverty Incidence among Population (%),2021,Mt. Province,  22.2 ,Province,CAR,%
+Poverty Incidence among Population (%),2021,Region I,  14.4 ,Region,Region I,%
+Poverty Incidence among Population (%),2021,Ilocos Norte,  2.5 ,Province,Region I,%
+Poverty Incidence among Population (%),2021,Ilocos Sur,  15.1 ,Province,Region I,%
+Poverty Incidence among Population (%),2021,La Union,  9.3 ,Province,Region I,%
+Poverty Incidence among Population (%),2021,Pangasinan,  17.9 ,Province,Region I,%
+Poverty Incidence among Population (%),2021,Region II,  15.4 ,Region,Region II,%
+Poverty Incidence among Population (%),2021,Batanes,  3.4 ,Province,Region II,%
+Poverty Incidence among Population (%),2021,Cagayan,  10.1 ,Province,Region II,%
+Poverty Incidence among Population (%),2021,Isabela,  20.3 ,Province,Region II,%
+Poverty Incidence among Population (%),2021,Nueva Vizcaya,  15.3 ,Province,Region II,%
+Poverty Incidence among Population (%),2021,Quirino,  9.1 ,Province,Region II,%
+Poverty Incidence among Population (%),2021,Region III,  11.4 ,Region,Region III,%
+Poverty Incidence among Population (%),2021,Aurora,  21.6 ,Province,Region III,%
+Poverty Incidence among Population (%),2021,Bataan,  11.6 ,Province,Region III,%
+Poverty Incidence among Population (%),2021,Bulacan,  11.0 ,Province,Region III,%
+Poverty Incidence among Population (%),2021,Nueva Ecija,  13.9 ,Province,Region III,%
+Poverty Incidence among Population (%),2021,Pampanga,  4.9 ,Province,Region III,%
+Poverty Incidence among Population (%),2021,Tarlac,  11.9 ,Province,Region III,%
+Poverty Incidence among Population (%),2021,Zambales,  24.4 ,Province,Region III,%
+Poverty Incidence among Population (%),2021,Region IV-A,  10.2 ,Region,Region IV-A,%
+Poverty Incidence among Population (%),2021,Batangas,  6.3 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2021,Cavite,  10.1 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2021,Laguna,  9.5 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2021,Quezon,  21.6 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2021,Rizal,  6.9 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2021,Region IV-B,  20.8 ,Region,Region IV-B,%
+Poverty Incidence among Population (%),2021,Marinduque ,  22.1 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2021,Occidental Mindoro,  30.3 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2021,Oriental Mindoro,  18.1 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2021,Palawan,  13.8 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2021,Romblon,  40.1 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2021,Region V,  29.3 ,Region,Region V,%
+Poverty Incidence among Population (%),2021,Albay,  20.4 ,Province,Region V,%
+Poverty Incidence among Population (%),2021,Camarines Norte,  22.2 ,Province,Region V,%
+Poverty Incidence among Population (%),2021,Camarines Sur,  38.7 ,Province,Region V,%
+Poverty Incidence among Population (%),2021,Catanduanes,  23.5 ,Province,Region V,%
+Poverty Incidence among Population (%),2021,Masbate,  27.7 ,Province,Region V,%
+Poverty Incidence among Population (%),2021,Sorsogon,  30.0 ,Province,Region V,%
+Poverty Incidence among Population (%),2021,Region VI,  19.0 ,Region,Region VI,%
+Poverty Incidence among Population (%),2021,Aklan,  20.2 ,Province,Region VI,%
+Poverty Incidence among Population (%),2021,Antique,  23.7 ,Province,Region VI,%
+Poverty Incidence among Population (%),2021,Capiz,  9.5 ,Province,Region VI,%
+Poverty Incidence among Population (%),2021,Guimaras,  10.0 ,Province,Region VI,%
+Poverty Incidence among Population (%),2021,Iloilo,  17.8 ,Province,Region VI,%
+Poverty Incidence among Population (%),2021,Negros Occidental,  21.8 ,Province,Region VI,%
+Poverty Incidence among Population (%),2021,Region VII,  27.6 ,Region,Region VII,%
+Poverty Incidence among Population (%),2021,Bohol,  23.8 ,Province,Region VII,%
+Poverty Incidence among Population (%),2021,Cebu,  28.6 ,Province,Region VII,%
+Poverty Incidence among Population (%),2021,Negros Oriental,  29.3 ,Province,Region VII,%
+Poverty Incidence among Population (%),2021,Siquijor,  3.4 ,Province,Region VII,%
+Poverty Incidence among Population (%),2021,Region VIII,  28.9 ,Region,Region VIII,%
+Poverty Incidence among Population (%),2021,Biliran,  27.2 ,Province,Region VIII,%
+Poverty Incidence among Population (%),2021,Eastern Samar,37.7,Province,Region VIII,%
+Poverty Incidence among Population (%),2021,Leyte,27.6,Province,Region VIII,%
+Poverty Incidence among Population (%),2021,Northern Samar,25.9,Province,Region VIII,%
+Poverty Incidence among Population (%),2021,Southern Leyte,  21.5 ,Province,Region VIII,%
+Poverty Incidence among Population (%),2021,Samar,  33.9 ,Province,Region VIII,%
+Poverty Incidence among Population (%),2021,Region IX,  30.1 ,Region,Region IX,%
+Poverty Incidence among Population (%),2021,Zamboanga del Norte,  50.8 ,Province,Region IX,%
+Poverty Incidence among Population (%),2021,Zamboanga del Sur,  18.3 ,Province,Region IX,%
+Poverty Incidence among Population (%),2021,Zamboanga Sibugay,  34.0 ,Province,Region IX,%
+Poverty Incidence among Population (%),2021,Isabela City,  17.3 ,Province,Region IX,%
+Poverty Incidence among Population (%),2021,Region X,  26.1 ,Region,Region X,%
+Poverty Incidence among Population (%),2021,Bukidnon,  29.2 ,Province,Region X,%
+Poverty Incidence among Population (%),2021,Camiguin,  20.6 ,Province,Region X,%
+Poverty Incidence among Population (%),2021,Lanao del Norte,  34.3 ,Province,Region X,%
+Poverty Incidence among Population (%),2021,Misamis Occidental,  24.7 ,Province,Region X,%
+Poverty Incidence among Population (%),2021,Misamis Oriental,  18.7 ,Province,Region X,%
+Poverty Incidence among Population (%),2021,Region XI,  16.8 ,Region,Region XI,%
+Poverty Incidence among Population (%),2021,Davao del Norte,10.6,Province,Region XI,%
+Poverty Incidence among Population (%),2021,Davao del Sur,10.4,Province,Region XI,%
+Poverty Incidence among Population (%),2021,Davao Oriental,30.4,Province,Region XI,%
+Poverty Incidence among Population (%),2021,Davao de Oro,23.9,Province,Region XI,%
+Poverty Incidence among Population (%),2021,Davao Occidental,43.4,Province,Region XI,%
+Poverty Incidence among Population (%),2021,Region XII,  28.1 ,Region,Region XII,%
+Poverty Incidence among Population (%),2021,Cotabato,  31.8 ,Province,Region XII,%
+Poverty Incidence among Population (%),2021,Sarangani,  41.1 ,Province,Region XII,%
+Poverty Incidence among Population (%),2021,South Cotabato,  16.7 ,Province,Region XII,%
+Poverty Incidence among Population (%),2021,Sultan Kudarat,  30.2 ,Province,Region XII,%
+Poverty Incidence among Population (%),2021,Cotabato City,  39.7 ,Province,Region XII,%
+Poverty Incidence among Population (%),2021,Region XIII,  33.2 ,Region,Region XIII,%
+Poverty Incidence among Population (%),2021,Agusan del Norte,  30.8 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2021,Agusan del Sur,  41.3 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2021,Surigao Del Norte,  27.6 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2021,Surigao Del Sur,  31.2 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2021,Dinagat Islands,  33.3 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2021,ARMM,  37.2 ,Region,ARMM,%
+Poverty Incidence among Population (%),2021,Basilan,  53.5 ,Province,ARMM,%
+Poverty Incidence among Population (%),2021,Lanao del Sur,  10.9 ,Province,ARMM,%
+Poverty Incidence among Population (%),2021,Maguindanao,  38.0 ,Province,ARMM,%
+Poverty Incidence among Population (%),2021,Sulu,  62.5 ,Province,ARMM,%
+Poverty Incidence among Population (%),2021,Tawi-tawi,  36.5 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2021,PHILIPPINES,  5.9 ,Country,Philippines,%
+Subsistence Incidence among Population (%),2021,NCR,  0.5 ,Region,NCR,%
+Subsistence Incidence among Population (%),2021,1st District,0.0,District,NCR,%
+Subsistence Incidence among Population (%),2021,2nd District,0.5,District,NCR,%
+Subsistence Incidence among Population (%),2021,3rd District,0.4,District,NCR,%
+Subsistence Incidence among Population (%),2021,4th District,0.6,District,NCR,%
+Subsistence Incidence among Population (%),2021,CAR,  2.2 ,Region,CAR,%
+Subsistence Incidence among Population (%),2021,Abra,  5.3 ,Province,CAR,%
+Subsistence Incidence among Population (%),2021,Apayao,  1.2 ,Province,CAR,%
+Subsistence Incidence among Population (%),2021,Benguet,  1.1 ,Province,CAR,%
+Subsistence Incidence among Population (%),2021,Ifugao,  1.5 ,Province,CAR,%
+Subsistence Incidence among Population (%),2021,Kalinga,  1.9 ,Province,CAR,%
+Subsistence Incidence among Population (%),2021,Mt. Province,  5.2 ,Province,CAR,%
+Subsistence Incidence among Population (%),2021,Region I,  4.0 ,Region,Region I,%
+Subsistence Incidence among Population (%),2021,Ilocos Norte, 0.0,Province,Region I,%
+Subsistence Incidence among Population (%),2021,Ilocos Sur,  4.8 ,Province,Region I,%
+Subsistence Incidence among Population (%),2021,La Union,  1.5 ,Province,Region I,%
+Subsistence Incidence among Population (%),2021,Pangasinan,  5.2 ,Province,Region I,%
+Subsistence Incidence among Population (%),2021,Region II,  3.9 ,Region,Region II,%
+Subsistence Incidence among Population (%),2021,Batanes,  0.3 ,Province,Region II,%
+Subsistence Incidence among Population (%),2021,Cagayan,  1.9 ,Province,Region II,%
+Subsistence Incidence among Population (%),2021,Isabela,  5.6 ,Province,Region II,%
+Subsistence Incidence among Population (%),2021,Nueva Vizcaya,  4.5 ,Province,Region II,%
+Subsistence Incidence among Population (%),2021,Quirino,  1.3 ,Province,Region II,%
+Subsistence Incidence among Population (%),2021,Region III,  2.6 ,Region,Region III,%
+Subsistence Incidence among Population (%),2021,Aurora,  6.9 ,Province,Region III,%
+Subsistence Incidence among Population (%),2021,Bataan,  2.7 ,Province,Region III,%
+Subsistence Incidence among Population (%),2021,Bulacan,  2.5 ,Province,Region III,%
+Subsistence Incidence among Population (%),2021,Nueva Ecija,  2.8 ,Province,Region III,%
+Subsistence Incidence among Population (%),2021,Pampanga,  0.6 ,Province,Region III,%
+Subsistence Incidence among Population (%),2021,Tarlac,  2.7 ,Province,Region III,%
+Subsistence Incidence among Population (%),2021,Zambales,  7.4 ,Province,Region III,%
+Subsistence Incidence among Population (%),2021,Region IV-A,  2.4 ,Region,Region IV-A,%
+Subsistence Incidence among Population (%),2021,Batangas,  1.0 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2021,Cavite,  2.4 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2021,Laguna,  2.4 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2021,Quezon,  6.6 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2021,Rizal,  0.9 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2021,Region IV-B,  7.5 ,Region,Region IV-B,%
+Subsistence Incidence among Population (%),2021,Marinduque ,  4.9 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2021,Occidental Mindoro,  13.3 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2021,Oriental Mindoro,  8.2 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2021,Palawan,  3.3 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2021,Romblon,  14.1 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2021,Region V,  9.8 ,Region,Region V,%
+Subsistence Incidence among Population (%),2021,Albay,  6.2 ,Province,Region V,%
+Subsistence Incidence among Population (%),2021,Camarines Norte,  5.5 ,Province,Region V,%
+Subsistence Incidence among Population (%),2021,Camarines Sur,  14.8 ,Province,Region V,%
+Subsistence Incidence among Population (%),2021,Catanduanes,  6.2 ,Province,Region V,%
+Subsistence Incidence among Population (%),2021,Masbate,  9.4 ,Province,Region V,%
+Subsistence Incidence among Population (%),2021,Sorsogon,  8.5 ,Province,Region V,%
+Subsistence Incidence among Population (%),2021,Region VI,  5.5 ,Region,Region VI,%
+Subsistence Incidence among Population (%),2021,Aklan,  6.7 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2021,Antique,  8.0 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2021,Capiz,  1.4 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2021,Guimaras,  1.2 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2021,Iloilo,  6.1 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2021,Negros Occidental,  5.6 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2021,Region VII,  10.9 ,Region,Region VII,%
+Subsistence Incidence among Population (%),2021,Bohol,  8.1 ,Province,Region VII,%
+Subsistence Incidence among Population (%),2021,Cebu,  11.8 ,Province,Region VII,%
+Subsistence Incidence among Population (%),2021,Negros Oriental,  10.8 ,Province,Region VII,%
+Subsistence Incidence among Population (%),2021,Siquijor,0.0,Province,Region VII,%
+Subsistence Incidence among Population (%),2021,Region VIII,  10.4 ,Region,Region VIII,%
+Subsistence Incidence among Population (%),2021,Biliran,  10.1 ,Province,Region VIII,%
+Subsistence Incidence among Population (%),2021,Eastern Samar,17.1,Province,Region VIII,%
+Subsistence Incidence among Population (%),2021,Leyte,10.3,Province,Region VIII,%
+Subsistence Incidence among Population (%),2021,Northern Samar,5.8,Province,Region VIII,%
+Subsistence Incidence among Population (%),2021,Southern Leyte,  6.0 ,Province,Region VIII,%
+Subsistence Incidence among Population (%),2021,Samar,  12.7 ,Province,Region VIII,%
+Subsistence Incidence among Population (%),2021,Region IX,  12.5 ,Region,Region IX,%
+Subsistence Incidence among Population (%),2021,Zamboanga del Norte,  25.8 ,Province,Region IX,%
+Subsistence Incidence among Population (%),2021,Zamboanga del Sur,  6.0 ,Province,Region IX,%
+Subsistence Incidence among Population (%),2021,Zamboanga Sibugay,  12.4 ,Province,Region IX,%
+Subsistence Incidence among Population (%),2021,Isabela City,  2.7 ,Province,Region IX,%
+Subsistence Incidence among Population (%),2021,Region X,  9.3 ,Region,Region X,%
+Subsistence Incidence among Population (%),2021,Bukidnon,  11.5 ,Province,Region X,%
+Subsistence Incidence among Population (%),2021,Camiguin,  5.9 ,Province,Region X,%
+Subsistence Incidence among Population (%),2021,Lanao del Norte,  14.8 ,Province,Region X,%
+Subsistence Incidence among Population (%),2021,Misamis Occidental,  6.1 ,Province,Region X,%
+Subsistence Incidence among Population (%),2021,Misamis Oriental,  5.1 ,Province,Region X,%
+Subsistence Incidence among Population (%),2021,Region XI,  5.1 ,Region,Region XI,%
+Subsistence Incidence among Population (%),2021,Davao del Norte,2.9,Province,Region XI,%
+Subsistence Incidence among Population (%),2021,Davao del Sur,2.9,Province,Region XI,%
+Subsistence Incidence among Population (%),2021,Davao Oriental,7.7,Province,Region XI,%
+Subsistence Incidence among Population (%),2021,Davao de Oro,7.0,Province,Region XI,%
+Subsistence Incidence among Population (%),2021,Davao Occidental,18.7,Province,Region XI,%
+Subsistence Incidence among Population (%),2021,Region XII,  11.9 ,Region,Region XII,%
+Subsistence Incidence among Population (%),2021,Cotabato,  13.8 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2021,Sarangani,  19.0 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2021,South Cotabato,  6.2 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2021,Sultan Kudarat,  13.2 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2021,Cotabato City,  16.5 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2021,Region XIII,  12.8 ,Region,Region XIII,%
+Subsistence Incidence among Population (%),2021,Agusan del Norte,  11.8 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2021,Agusan del Sur,  17.2 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2021,Surigao Del Norte,  10.6 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2021,Surigao Del Sur,  10.8 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2021,Dinagat Islands,  12.8 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2021,ARMM,  12.5 ,Region,ARMM,%
+Subsistence Incidence among Population (%),2021,Basilan,  23.9 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2021,Lanao del Sur,  0.4 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2021,Maguindanao,  12.4 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2021,Sulu,  24.2 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2021,Tawi-tawi,  10.1 ,Province,ARMM,%
+Magnitude of Poor Families,2021,PHILIPPINES,3496,Country,Philippines,families
+Magnitude of Poor Families,2021,NCR,76,Region,NCR,families
+Magnitude of Poor Families,2021,1st District,5,District,NCR,families
+Magnitude of Poor Families,2021,2nd District,20,District,NCR,families
+Magnitude of Poor Families,2021,3rd District,23,District,NCR,families
+Magnitude of Poor Families,2021,4th District,28,District,NCR,families
+Magnitude of Poor Families,2021,CAR,31,Region,CAR,families
+Magnitude of Poor Families,2021,Abra,9,Province,CAR,families
+Magnitude of Poor Families,2021,Apayao,1,Province,CAR,families
+Magnitude of Poor Families,2021,Benguet,9,Province,CAR,families
+Magnitude of Poor Families,2021,Ifugao,3,Province,CAR,families
+Magnitude of Poor Families,2021,Kalinga,3,Province,CAR,families
+Magnitude of Poor Families,2021,Mt. Province,6,Province,CAR,families
+Magnitude of Poor Families,2021,Region I,139,Region,Region I,families
+Magnitude of Poor Families,2021,Ilocos Norte,3,Province,Region I,families
+Magnitude of Poor Families,2021,Ilocos Sur,20,Province,Region I,families
+Magnitude of Poor Families,2021,La Union,13,Province,Region I,families
+Magnitude of Poor Families,2021,Pangasinan,104,Province,Region I,families
+Magnitude of Poor Families,2021,Region II,105,Region,Region II,families
+Magnitude of Poor Families,2021,Batanes,0,Province,Region II,families
+Magnitude of Poor Families,2021,Cagayan,22,Province,Region II,families
+Magnitude of Poor Families,2021,Isabela,66,Province,Region II,families
+Magnitude of Poor Families,2021,Nueva Vizcaya,14,Province,Region II,families
+Magnitude of Poor Families,2021,Quirino,3,Province,Region II,families
+Magnitude of Poor Families,2021,Region III,248,Region,Region III,families
+Magnitude of Poor Families,2021,Aurora,9,Province,Region III,families
+Magnitude of Poor Families,2021,Bataan,19,Province,Region III,families
+Magnitude of Poor Families,2021,Bulacan,73,Province,Region III,families
+Magnitude of Poor Families,2021,Nueva Ecija,57,Province,Region III,families
+Magnitude of Poor Families,2021,Pampanga,20,Province,Region III,families
+Magnitude of Poor Families,2021,Tarlac,29,Province,Region III,families
+Magnitude of Poor Families,2021,Zambales,41,Province,Region III,families
+Magnitude of Poor Families,2021,Region IV-A,296,Region,Region IV-A,families
+Magnitude of Poor Families,2021,Batangas,32,Province,Region IV-A,families
+Magnitude of Poor Families,2021,Cavite,77,Province,Region IV-A,families
+Magnitude of Poor Families,2021,Laguna,65,Province,Region IV-A,families
+Magnitude of Poor Families,2021,Quezon,89,Province,Region IV-A,families
+Magnitude of Poor Families,2021,Rizal,32,Province,Region IV-A,families
+Magnitude of Poor Families,2021,Region IV-B,118,Region,Region IV-B,families
+Magnitude of Poor Families,2021,Marinduque ,9,Province,Region IV-B,families
+Magnitude of Poor Families,2021,Occidental Mindoro,29,Province,Region IV-B,families
+Magnitude of Poor Families,2021,Oriental Mindoro,27,Province,Region IV-B,families
+Magnitude of Poor Families,2021,Palawan,29,Province,Region IV-B,families
+Magnitude of Poor Families,2021,Romblon,23,Province,Region IV-B,families
+Magnitude of Poor Families,2021,Region V,293,Region,Region V,families
+Magnitude of Poor Families,2021,Albay,47,Province,Region V,families
+Magnitude of Poor Families,2021,Camarines Norte,24,Province,Region V,families
+Magnitude of Poor Families,2021,Camarines Sur,131,Province,Region V,families
+Magnitude of Poor Families,2021,Catanduanes,10,Province,Region V,families
+Magnitude of Poor Families,2021,Masbate,41,Province,Region V,families
+Magnitude of Poor Families,2021,Sorsogon,40,Province,Region V,families
+Magnitude of Poor Families,2021,Region VI,269,Region,Region VI,families
+Magnitude of Poor Families,2021,Aklan,21,Province,Region VI,families
+Magnitude of Poor Families,2021,Antique,27,Province,Region VI,families
+Magnitude of Poor Families,2021,Capiz,13,Province,Region VI,families
+Magnitude of Poor Families,2021,Guimaras,3,Province,Region VI,families
+Magnitude of Poor Families,2021,Iloilo,77,Province,Region VI,families
+Magnitude of Poor Families,2021,Negros Occidental,128,Province,Region VI,families
+Magnitude of Poor Families,2021,Region VII,435,Region,Region VII,families
+Magnitude of Poor Families,2021,Bohol,61,Province,Region VII,families
+Magnitude of Poor Families,2021,Cebu,293,Province,Region VII,families
+Magnitude of Poor Families,2021,Negros Oriental,80,Province,Region VII,families
+Magnitude of Poor Families,2021,Siquijor,1,Province,Region VII,families
+Magnitude of Poor Families,2021,Region VIII,251,Region,Region VIII,families
+Magnitude of Poor Families,2021,Biliran,9,Province,Region VIII,families
+Magnitude of Poor Families,2021,Eastern Samar,38,Province,Region VIII,families
+Magnitude of Poor Families,2021,Leyte,111,Province,Region VIII,families
+Magnitude of Poor Families,2021,Northern Samar,27,Province,Region VIII,families
+Magnitude of Poor Families,2021,Southern Leyte,16,Province,Region VIII,families
+Magnitude of Poor Families,2021,Samar,51,Province,Region VIII,families
+Magnitude of Poor Families,2021,Region IX,205,Region,Region IX,families
+Magnitude of Poor Families,2021,Zamboanga del Norte,100,Province,Region IX,families
+Magnitude of Poor Families,2021,Zamboanga del Sur,59,Province,Region IX,families
+Magnitude of Poor Families,2021,Zamboanga Sibugay,43,Province,Region IX,families
+Magnitude of Poor Families,2021,Isabela City,3,Province,Region IX,families
+Magnitude of Poor Families,2021,Region X,228,Region,Region X,families
+Magnitude of Poor Families,2021,Bukidnon,80,Province,Region X,families
+Magnitude of Poor Families,2021,Camiguin,3,Province,Region X,families
+Magnitude of Poor Families,2021,Lanao del Norte,63,Province,Region X,families
+Magnitude of Poor Families,2021,Misamis Occidental,26,Province,Region X,families
+Magnitude of Poor Families,2021,Misamis Oriental,55,Province,Region X,families
+Magnitude of Poor Families,2021,Region XI,165,Region,Region XI,families
+Magnitude of Poor Families,2021,Davao del Norte,19,Province,Region XI,families
+Magnitude of Poor Families,2021,Davao del Sur,52,Province,Region XI,families
+Magnitude of Poor Families,2021,Davao Oriental,32,Province,Region XI,families
+Magnitude of Poor Families,2021,Davao de Oro,34,Province,Region XI,families
+Magnitude of Poor Families,2021,Davao Occidental,29,Province,Region XI,families
+Magnitude of Poor Families,2021,Region XII,258,Region,Region XII,families
+Magnitude of Poor Families,2021,Cotabato,90,Province,Region XII,families
+Magnitude of Poor Families,2021,Sarangani,48,Province,Region XII,families
+Magnitude of Poor Families,2021,South Cotabato,54,Province,Region XII,families
+Magnitude of Poor Families,2021,Sultan Kudarat,47,Province,Region XII,families
+Magnitude of Poor Families,2021,Cotabato City,19,Province,Region XII,families
+Magnitude of Poor Families,2021,Region XIII,172,Region,Region XIII,families
+Magnitude of Poor Families,2021,Agusan del Norte,42,Province,Region XIII,families
+Magnitude of Poor Families,2021,Agusan del Sur,59,Province,Region XIII,families
+Magnitude of Poor Families,2021,Surigao Del Norte,27,Province,Region XIII,families
+Magnitude of Poor Families,2021,Surigao Del Sur,35,Province,Region XIII,families
+Magnitude of Poor Families,2021,Dinagat Islands,8,Province,Region XIII,families
+Magnitude of Poor Families,2021,ARMM,207,Region,ARMM,families
+Magnitude of Poor Families,2021,Basilan,28,Province,ARMM,families
+Magnitude of Poor Families,2021,Lanao del Sur,13,Province,ARMM,families
+Magnitude of Poor Families,2021,Maguindanao,66,Province,ARMM,families
+Magnitude of Poor Families,2021,Sulu,79,Province,ARMM,families
+Magnitude of Poor Families,2021,Tawi-tawi,20,Province,ARMM,families
+Magnitude of Poor Population,2021,PHILIPPINES,19992,Country,Philippines,population
+Magnitude of Poor Population,2021,NCR,482,Region,NCR,population
+Magnitude of Poor Population,2021,1st District,32,District,NCR,population
+Magnitude of Poor Population,2021,2nd District,140,District,NCR,population
+Magnitude of Poor Population,2021,3rd District,145,District,NCR,population
+Magnitude of Poor Population,2021,4th District,166,District,NCR,population
+Magnitude of Poor Population,2021,CAR,181,Region,CAR,population
+Magnitude of Poor Population,2021,Abra,54,Province,CAR,population
+Magnitude of Poor Population,2021,Apayao,8,Province,CAR,population
+Magnitude of Poor Population,2021,Benguet,48,Province,CAR,population
+Magnitude of Poor Population,2021,Ifugao,17,Province,CAR,population
+Magnitude of Poor Population,2021,Kalinga,18,Province,CAR,population
+Magnitude of Poor Population,2021,Mt. Province,35,Province,CAR,population
+Magnitude of Poor Population,2021,Region I,763,Region,Region I,population
+Magnitude of Poor Population,2021,Ilocos Norte,16,Province,Region I,population
+Magnitude of Poor Population,2021,Ilocos Sur,108,Province,Region I,population
+Magnitude of Poor Population,2021,La Union,77,Province,Region I,population
+Magnitude of Poor Population,2021,Pangasinan,561,Province,Region I,population
+Magnitude of Poor Population,2021,Region II,568,Region,Region II,population
+Magnitude of Poor Population,2021,Batanes,1,Province,Region II,population
+Magnitude of Poor Population,2021,Cagayan,130,Province,Region II,population
+Magnitude of Poor Population,2021,Isabela,345,Province,Region II,population
+Magnitude of Poor Population,2021,Nueva Vizcaya,75,Province,Region II,population
+Magnitude of Poor Population,2021,Quirino,18,Province,Region II,population
+Magnitude of Poor Population,2021,Region III,1430,Region,Region III,population
+Magnitude of Poor Population,2021,Aurora,50,Province,Region III,population
+Magnitude of Poor Population,2021,Bataan,99,Province,Region III,population
+Magnitude of Poor Population,2021,Bulacan,409,Province,Region III,population
+Magnitude of Poor Population,2021,Nueva Ecija,333,Province,Region III,population
+Magnitude of Poor Population,2021,Pampanga,143,Province,Region III,population
+Magnitude of Poor Population,2021,Tarlac,176,Province,Region III,population
+Magnitude of Poor Population,2021,Zambales,221,Province,Region III,population
+Magnitude of Poor Population,2021,Region IV-A,1676,Region,Region IV-A,population
+Magnitude of Poor Population,2021,Batangas,197,Province,Region IV-A,population
+Magnitude of Poor Population,2021,Cavite,436,Province,Region IV-A,population
+Magnitude of Poor Population,2021,Laguna,324,Province,Region IV-A,population
+Magnitude of Poor Population,2021,Quezon,493,Province,Region IV-A,population
+Magnitude of Poor Population,2021,Rizal,226,Province,Region IV-A,population
+Magnitude of Poor Population,2021,Region IV-B,668,Region,Region IV-B,population
+Magnitude of Poor Population,2021,Marinduque ,54,Province,Region IV-B,population
+Magnitude of Poor Population,2021,Occidental Mindoro,157,Province,Region IV-B,population
+Magnitude of Poor Population,2021,Oriental Mindoro,165,Province,Region IV-B,population
+Magnitude of Poor Population,2021,Palawan,170,Province,Region IV-B,population
+Magnitude of Poor Population,2021,Romblon,121,Province,Region IV-B,population
+Magnitude of Poor Population,2021,Region V,1815,Region,Region V,population
+Magnitude of Poor Population,2021,Albay,288,Province,Region V,population
+Magnitude of Poor Population,2021,Camarines Norte,140,Province,Region V,population
+Magnitude of Poor Population,2021,Camarines Sur,804,Province,Region V,population
+Magnitude of Poor Population,2021,Catanduanes,65,Province,Region V,population
+Magnitude of Poor Population,2021,Masbate,262,Province,Region V,population
+Magnitude of Poor Population,2021,Sorsogon,256,Province,Region V,population
+Magnitude of Poor Population,2021,Region VI,1517,Region,Region VI,population
+Magnitude of Poor Population,2021,Aklan,123,Province,Region VI,population
+Magnitude of Poor Population,2021,Antique,146,Province,Region VI,population
+Magnitude of Poor Population,2021,Capiz,77,Province,Region VI,population
+Magnitude of Poor Population,2021,Guimaras,19,Province,Region VI,population
+Magnitude of Poor Population,2021,Iloilo,455,Province,Region VI,population
+Magnitude of Poor Population,2021,Negros Occidental,697,Province,Region VI,population
+Magnitude of Poor Population,2021,Region VII,2221,Region,Region VII,population
+Magnitude of Poor Population,2021,Bohol,327,Province,Region VII,population
+Magnitude of Poor Population,2021,Cebu,1477,Province,Region VII,population
+Magnitude of Poor Population,2021,Negros Oriental,414,Province,Region VII,population
+Magnitude of Poor Population,2021,Siquijor,3,Province,Region VII,population
+Magnitude of Poor Population,2021,Region VIII,1389,Region,Region VIII,population
+Magnitude of Poor Population,2021,Biliran,49,Province,Region VIII,population
+Magnitude of Poor Population,2021,Eastern Samar,193,Province,Region VIII,population
+Magnitude of Poor Population,2021,Leyte,595,Province,Region VIII,population
+Magnitude of Poor Population,2021,Northern Samar,175,Province,Region VIII,population
+Magnitude of Poor Population,2021,Southern Leyte,97,Province,Region VIII,population
+Magnitude of Poor Population,2021,Samar,281,Province,Region VIII,population
+Magnitude of Poor Population,2021,Region IX,1145,Region,Region IX,population
+Magnitude of Poor Population,2021,Zamboanga del Norte,535,Province,Region IX,population
+Magnitude of Poor Population,2021,Zamboanga del Sur,354,Province,Region IX,population
+Magnitude of Poor Population,2021,Zamboanga Sibugay,234,Province,Region IX,population
+Magnitude of Poor Population,2021,Isabela City,23,Province,Region IX,population
+Magnitude of Poor Population,2021,Region X,1323,Region,Region X,population
+Magnitude of Poor Population,2021,Bukidnon,446,Province,Region X,population
+Magnitude of Poor Population,2021,Camiguin,19,Province,Region X,population
+Magnitude of Poor Population,2021,Lanao del Norte,381,Province,Region X,population
+Magnitude of Poor Population,2021,Misamis Occidental,156,Province,Region X,population
+Magnitude of Poor Population,2021,Misamis Oriental,321,Province,Region X,population
+Magnitude of Poor Population,2021,Region XI,900,Region,Region XI,population
+Magnitude of Poor Population,2021,Davao del Norte,113,Province,Region XI,population
+Magnitude of Poor Population,2021,Davao del Sur,267,Province,Region XI,population
+Magnitude of Poor Population,2021,Davao Oriental,185,Province,Region XI,population
+Magnitude of Poor Population,2021,Davao de Oro,186,Province,Region XI,population
+Magnitude of Poor Population,2021,Davao Occidental,149,Province,Region XI,population
+Magnitude of Poor Population,2021,Region XII,1400,Region,Region XII,population
+Magnitude of Poor Population,2021,Cotabato,494,Province,Region XII,population
+Magnitude of Poor Population,2021,Sarangani,243,Province,Region XII,population
+Magnitude of Poor Population,2021,South Cotabato,278,Province,Region XII,population
+Magnitude of Poor Population,2021,Sultan Kudarat,261,Province,Region XII,population
+Magnitude of Poor Population,2021,Cotabato City,124,Province,Region XII,population
+Magnitude of Poor Population,2021,Region XIII,924,Region,Region XIII,population
+Magnitude of Poor Population,2021,Agusan del Norte,230,Province,Region XIII,population
+Magnitude of Poor Population,2021,Agusan del Sur,306,Province,Region XIII,population
+Magnitude of Poor Population,2021,Surigao Del Norte,148,Province,Region XIII,population
+Magnitude of Poor Population,2021,Surigao Del Sur,195,Province,Region XIII,population
+Magnitude of Poor Population,2021,Dinagat Islands,44,Province,Region XIII,population
+Magnitude of Poor Population,2021,ARMM,1590,Region,ARMM,population
+Magnitude of Poor Population,2021,Basilan,212,Province,ARMM,population
+Magnitude of Poor Population,2021,Lanao del Sur,127,Province,ARMM,population
+Magnitude of Poor Population,2021,Maguindanao,515,Province,ARMM,population
+Magnitude of Poor Population,2021,Sulu,583,Province,ARMM,population
+Magnitude of Poor Population,2021,Tawi-tawi,153,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2021,PHILIPPINES,6545,Country,Philippines,population
+Magnitude of Subsistence Poor Population,2021,NCR,64,Region,NCR,population
+Magnitude of Subsistence Poor Population,2021,1st District,0,District,NCR,population
+Magnitude of Subsistence Poor Population,2021,2nd District,26,District,NCR,population
+Magnitude of Subsistence Poor Population,2021,3rd District,12,District,NCR,population
+Magnitude of Subsistence Poor Population,2021,4th District,25,District,NCR,population
+Magnitude of Subsistence Poor Population,2021,CAR,40,Region,CAR,population
+Magnitude of Subsistence Poor Population,2021,Abra,13,Province,CAR,population
+Magnitude of Subsistence Poor Population,2021,Apayao,1,Province,CAR,population
+Magnitude of Subsistence Poor Population,2021,Benguet,9,Province,CAR,population
+Magnitude of Subsistence Poor Population,2021,Ifugao,3,Province,CAR,population
+Magnitude of Subsistence Poor Population,2021,Kalinga,4,Province,CAR,population
+Magnitude of Subsistence Poor Population,2021,Mt. Province,8,Province,CAR,population
+Magnitude of Subsistence Poor Population,2021,Region I,211,Region,Region I,population
+Magnitude of Subsistence Poor Population,2021,Ilocos Norte,0,Province,Region I,population
+Magnitude of Subsistence Poor Population,2021,Ilocos Sur,35,Province,Region I,population
+Magnitude of Subsistence Poor Population,2021,La Union,13,Province,Region I,population
+Magnitude of Subsistence Poor Population,2021,Pangasinan,164,Province,Region I,population
+Magnitude of Subsistence Poor Population,2021,Region II,143,Region,Region II,population
+Magnitude of Subsistence Poor Population,2021,Batanes,0,Province,Region II,population
+Magnitude of Subsistence Poor Population,2021,Cagayan,24,Province,Region II,population
+Magnitude of Subsistence Poor Population,2021,Isabela,95,Province,Region II,population
+Magnitude of Subsistence Poor Population,2021,Nueva Vizcaya,22,Province,Region II,population
+Magnitude of Subsistence Poor Population,2021,Quirino,3,Province,Region II,population
+Magnitude of Subsistence Poor Population,2021,Region III,321,Region,Region III,population
+Magnitude of Subsistence Poor Population,2021,Aurora,16,Province,Region III,population
+Magnitude of Subsistence Poor Population,2021,Bataan,23,Province,Region III,population
+Magnitude of Subsistence Poor Population,2021,Bulacan,91,Province,Region III,population
+Magnitude of Subsistence Poor Population,2021,Nueva Ecija,66,Province,Region III,population
+Magnitude of Subsistence Poor Population,2021,Pampanga,18,Province,Region III,population
+Magnitude of Subsistence Poor Population,2021,Tarlac,40,Province,Region III,population
+Magnitude of Subsistence Poor Population,2021,Zambales,67,Province,Region III,population
+Magnitude of Subsistence Poor Population,2021,Region IV-A,398,Region,Region IV-A,population
+Magnitude of Subsistence Poor Population,2021,Batangas,31,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2021,Cavite,104,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2021,Laguna,81,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2021,Quezon,151,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2021,Rizal,31,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2021,Region IV-B,240,Region,Region IV-B,population
+Magnitude of Subsistence Poor Population,2021,Marinduque ,12,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2021,Occidental Mindoro,69,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2021,Oriental Mindoro,75,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2021,Palawan,41,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2021,Romblon,43,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2021,Region V,609,Region,Region V,population
+Magnitude of Subsistence Poor Population,2021,Albay,88,Province,Region V,population
+Magnitude of Subsistence Poor Population,2021,Camarines Norte,34,Province,Region V,population
+Magnitude of Subsistence Poor Population,2021,Camarines Sur,308,Province,Region V,population
+Magnitude of Subsistence Poor Population,2021,Catanduanes,17,Province,Region V,population
+Magnitude of Subsistence Poor Population,2021,Masbate,89,Province,Region V,population
+Magnitude of Subsistence Poor Population,2021,Sorsogon,72,Province,Region V,population
+Magnitude of Subsistence Poor Population,2021,Region VI,439,Region,Region VI,population
+Magnitude of Subsistence Poor Population,2021,Aklan,41,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2021,Antique,50,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2021,Capiz,12,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2021,Guimaras,2,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2021,Iloilo,156,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2021,Negros Occidental,179,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2021,Region VII,876,Region,Region VII,population
+Magnitude of Subsistence Poor Population,2021,Bohol,112,Province,Region VII,population
+Magnitude of Subsistence Poor Population,2021,Cebu,611,Province,Region VII,population
+Magnitude of Subsistence Poor Population,2021,Negros Oriental,153,Province,Region VII,population
+Magnitude of Subsistence Poor Population,2021,Siquijor,0,Province,Region VII,population
+Magnitude of Subsistence Poor Population,2021,Region VIII,498,Region,Region VIII,population
+Magnitude of Subsistence Poor Population,2021,Biliran,18,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2021,Eastern Samar,87,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2021,Leyte,221,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2021,Northern Samar,39,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2021,Southern Leyte,27,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2021,Samar,105,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2021,Region IX,476,Region,Region IX,population
+Magnitude of Subsistence Poor Population,2021,Zamboanga del Norte,272,Province,Region IX,population
+Magnitude of Subsistence Poor Population,2021,Zamboanga del Sur,115,Province,Region IX,population
+Magnitude of Subsistence Poor Population,2021,Zamboanga Sibugay,85,Province,Region IX,population
+Magnitude of Subsistence Poor Population,2021,Isabela City,4,Province,Region IX,population
+Magnitude of Subsistence Poor Population,2021,Region X,472,Region,Region X,population
+Magnitude of Subsistence Poor Population,2021,Bukidnon,175,Province,Region X,population
+Magnitude of Subsistence Poor Population,2021,Camiguin,6,Province,Region X,population
+Magnitude of Subsistence Poor Population,2021,Lanao del Norte,165,Province,Region X,population
+Magnitude of Subsistence Poor Population,2021,Misamis Occidental,39,Province,Region X,population
+Magnitude of Subsistence Poor Population,2021,Misamis Oriental,88,Province,Region X,population
+Magnitude of Subsistence Poor Population,2021,Region XI,271,Region,Region XI,population
+Magnitude of Subsistence Poor Population,2021,Davao del Norte,31,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2021,Davao del Sur,75,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2021,Davao Oriental,47,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2021,Davao de Oro,54,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2021,Davao Occidental,64,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2021,Region XII,595,Region,Region XII,population
+Magnitude of Subsistence Poor Population,2021,Cotabato,214,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2021,Sarangani,112,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2021,South Cotabato,104,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2021,Sultan Kudarat,114,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2021,Cotabato City,51,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2021,Region XIII,357,Region,Region XIII,population
+Magnitude of Subsistence Poor Population,2021,Agusan del Norte,88,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2021,Agusan del Sur,127,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2021,Surigao Del Norte,57,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2021,Surigao Del Sur,68,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2021,Dinagat Islands,17,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2021,ARMM,536,Region,ARMM,population
+Magnitude of Subsistence Poor Population,2021,Basilan,94,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2021,Lanao del Sur,5,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2021,Maguindanao,168,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2021,Sulu,226,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2021,Tawi-tawi,42,Province,ARMM,population

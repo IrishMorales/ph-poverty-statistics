@@ -1,0 +1,736 @@
+Variable,Year,Province,Value,Admin_Lvl,Region,Unit
+Annual Per Capita Poverty Threshold (in Pesos),2018,PHILIPPINES,25813,Country,Philippines,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,NCR,28682,Region,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,1st District,28682,District,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,2nd District,28682,District,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,3rd District,28682,District,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,4th District,28682,District,NCR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,CAR,24907,Region,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Abra,23596,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Apayao,23135,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Benguet,24158,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Ifugao,26429,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Kalinga,24219,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Mt. Province,27815,Province,CAR,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region I,27055,Region,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Ilocos Norte,26711,Province,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Ilocos Sur,24603,Province,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,La Union,22456,Province,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Pangasinan,27828,Province,Region I,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region II,25099,Region,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Batanes,37540,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Cagayan,24759,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Isabela,25460,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Nueva Vizcaya,24857,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Quirino,23580,Province,Region II,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region III,26954,Region,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Aurora,25219,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Bataan,29496,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Bulacan,27244,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Nueva Ecija,25466,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Pampanga,26633,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Tarlac,25386,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Zambales,29977,Province,Region III,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region IV-A,27928,Region,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Batangas,33068,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Cavite,29157,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Laguna,23688,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Quezon,22805,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Rizal,28647,Province,Region IV-A,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region IV-B,23315,Region,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Marinduque ,24054,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Occidental Mindoro,21341,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Oriental Mindoro,24470,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Palawan,23425,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Romblon,24087,Province,Region IV-B,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region V,24461,Region,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Albay,24902,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Camarines Norte,25051,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Camarines Sur,24271,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Catanduanes,24380,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Masbate,22911,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Sorsogon,26069,Province,Region V,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region VI,24494,Region,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Aklan,23745,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Antique,24023,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Capiz,22669,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Guimaras,25899,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Iloilo,26113,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Negros Occidental,23692,Province,Region VI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region VII,25745,Region,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Bohol,26108,Province,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Cebu,25914,Province,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Negros Oriental,25113,Province,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Siquijor,25649,Province,Region VII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region VIII,24987,Region,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Biliran,24216,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Eastern Samar,29070,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Leyte,23574,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Northern Samar,25971,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Southern Leyte,25756,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Samar,23131,Province,Region VIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region IX,25650,Region,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Zamboanga del Norte,28523,Province,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Zamboanga del Sur,23977,Province,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Zamboanga Sibugay,23054,Province,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Isabela City,25870,Province,Region IX,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region X,24835,Region,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Bukidnon,25624,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Camiguin,26042,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Lanao del Norte,24450,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Misamis Occidental,24505,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Misamis Oriental,24118,Province,Region X,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region XI,25953,Region,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Davao del Norte,27034,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Davao del Sur,25807,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Davao Oriental,26347,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Davao de Oro,25867,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Davao Occidental,25356,Province,Region XI,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region XII,25023,Region,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Cotabato,25020,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Sarangani,23282,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,South Cotabato,25240,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Sultan Kudarat,23775,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Cotabato City,30349,Province,Region XII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Region XIII,25375,Region,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Agusan del Norte,23775,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Agusan del Sur,24655,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Surigao Del Norte,28293,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Surigao Del Sur,24873,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Dinagat Islands,26409,Province,Region XIII,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,ARMM,27715,Region,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Basilan,26951,Province,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Lanao del Sur,29224,Province,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Maguindanao,25368,Province,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Sulu,29150,Province,ARMM,in Pesos
+Annual Per Capita Poverty Threshold (in Pesos),2018,Tawi-tawi,21264,Province,ARMM,in Pesos
+Poverty Incidence among Families (%),2018,PHILIPPINES,  12.1 ,Country,Philippines,%
+Poverty Incidence among Families (%),2018,NCR,  1.4 ,Region,NCR,%
+Poverty Incidence among Families (%),2018,1st District,1.9,District,NCR,%
+Poverty Incidence among Families (%),2018,2nd District,1.4,District,NCR,%
+Poverty Incidence among Families (%),2018,3rd District,2.2,District,NCR,%
+Poverty Incidence among Families (%),2018,4th District,0.7,District,NCR,%
+Poverty Incidence among Families (%),2018,CAR,  8.6 ,Region,CAR,%
+Poverty Incidence among Families (%),2018,Abra,  14.7 ,Province,CAR,%
+Poverty Incidence among Families (%),2018,Apayao,  16.0 ,Province,CAR,%
+Poverty Incidence among Families (%),2018,Benguet,  4.2 ,Province,CAR,%
+Poverty Incidence among Families (%),2018,Ifugao,  9.9 ,Province,CAR,%
+Poverty Incidence among Families (%),2018,Kalinga,  9.2 ,Province,CAR,%
+Poverty Incidence among Families (%),2018,Mt. Province,  17.1 ,Province,CAR,%
+Poverty Incidence among Families (%),2018,Region I,  7.0 ,Region,Region I,%
+Poverty Incidence among Families (%),2018,Ilocos Norte,  3.1 ,Province,Region I,%
+Poverty Incidence among Families (%),2018,Ilocos Sur,  5.5 ,Province,Region I,%
+Poverty Incidence among Families (%),2018,La Union,  2.9 ,Province,Region I,%
+Poverty Incidence among Families (%),2018,Pangasinan,  9.3 ,Province,Region I,%
+Poverty Incidence among Families (%),2018,Region II,  12.5 ,Region,Region II,%
+Poverty Incidence among Families (%),2018,Batanes,  6.5 ,Province,Region II,%
+Poverty Incidence among Families (%),2018,Cagayan,  12.5 ,Province,Region II,%
+Poverty Incidence among Families (%),2018,Isabela,  13.2 ,Province,Region II,%
+Poverty Incidence among Families (%),2018,Nueva Vizcaya,  11.6 ,Province,Region II,%
+Poverty Incidence among Families (%),2018,Quirino,  8.9 ,Province,Region II,%
+Poverty Incidence among Families (%),2018,Region III,  5.2 ,Region,Region III,%
+Poverty Incidence among Families (%),2018,Aurora,  11.8 ,Province,Region III,%
+Poverty Incidence among Families (%),2018,Bataan,  5.8 ,Province,Region III,%
+Poverty Incidence among Families (%),2018,Bulacan,  3.5 ,Province,Region III,%
+Poverty Incidence among Families (%),2018,Nueva Ecija,  6.6 ,Province,Region III,%
+Poverty Incidence among Families (%),2018,Pampanga,  2.1 ,Province,Region III,%
+Poverty Incidence among Families (%),2018,Tarlac,  7.7 ,Province,Region III,%
+Poverty Incidence among Families (%),2018,Zambales,  10.9 ,Province,Region III,%
+Poverty Incidence among Families (%),2018,Region IV-A,  5.1 ,Region,Region IV-A,%
+Poverty Incidence among Families (%),2018,Batangas,  8.6 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2018,Cavite,  3.7 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2018,Laguna,  2.7 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2018,Quezon,  9.3 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2018,Rizal,  3.3 ,Province,Region IV-A,%
+Poverty Incidence among Families (%),2018,Region IV-B,  10.5 ,Region,Region IV-B,%
+Poverty Incidence among Families (%),2018,Marinduque ,  10.0 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2018,Occidental Mindoro,  16.1 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2018,Oriental Mindoro,  7.3 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2018,Palawan,  8.2 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2018,Romblon,  19.7 ,Province,Region IV-B,%
+Poverty Incidence among Families (%),2018,Region V,  20.0 ,Region,Region V,%
+Poverty Incidence among Families (%),2018,Albay,  15.0 ,Province,Region V,%
+Poverty Incidence among Families (%),2018,Camarines Norte,  22.4 ,Province,Region V,%
+Poverty Incidence among Families (%),2018,Camarines Sur,  21.0 ,Province,Region V,%
+Poverty Incidence among Families (%),2018,Catanduanes,  14.4 ,Province,Region V,%
+Poverty Incidence among Families (%),2018,Masbate,  25.8 ,Province,Region V,%
+Poverty Incidence among Families (%),2018,Sorsogon,  19.6 ,Province,Region V,%
+Poverty Incidence among Families (%),2018,Region VI,  11.9 ,Region,Region VI,%
+Poverty Incidence among Families (%),2018,Aklan,  8.8 ,Province,Region VI,%
+Poverty Incidence among Families (%),2018,Antique,  12.9 ,Province,Region VI,%
+Poverty Incidence among Families (%),2018,Capiz,  4.1 ,Province,Region VI,%
+Poverty Incidence among Families (%),2018,Guimaras,  6.8 ,Province,Region VI,%
+Poverty Incidence among Families (%),2018,Iloilo,  12.1 ,Province,Region VI,%
+Poverty Incidence among Families (%),2018,Negros Occidental,  14.5 ,Province,Region VI,%
+Poverty Incidence among Families (%),2018,Region VII,  13.4 ,Region,Region VII,%
+Poverty Incidence among Families (%),2018,Bohol,  15.5 ,Province,Region VII,%
+Poverty Incidence among Families (%),2018,Cebu,  11.3 ,Province,Region VII,%
+Poverty Incidence among Families (%),2018,Negros Oriental,  19.4 ,Province,Region VII,%
+Poverty Incidence among Families (%),2018,Siquijor,  7.2 ,Province,Region VII,%
+Poverty Incidence among Families (%),2018,Region VIII,  23.9 ,Region,Region VIII,%
+Poverty Incidence among Families (%),2018,Biliran,  13.7 ,Province,Region VIII,%
+Poverty Incidence among Families (%),2018,Eastern Samar,40.9,Province,Region VIII,%
+Poverty Incidence among Families (%),2018,Leyte,21.7,Province,Region VIII,%
+Poverty Incidence among Families (%),2018,Northern Samar,27.6,Province,Region VIII,%
+Poverty Incidence among Families (%),2018,Southern Leyte,  17.3 ,Province,Region VIII,%
+Poverty Incidence among Families (%),2018,Samar,  22.2 ,Province,Region VIII,%
+Poverty Incidence among Families (%),2018,Region IX,  25.4 ,Region,Region IX,%
+Poverty Incidence among Families (%),2018,Zamboanga del Norte,  36.9 ,Province,Region IX,%
+Poverty Incidence among Families (%),2018,Zamboanga del Sur,  17.4 ,Province,Region IX,%
+Poverty Incidence among Families (%),2018,Zamboanga Sibugay,  27.1 ,Province,Region IX,%
+Poverty Incidence among Families (%),2018,Isabela City,  41.6 ,Province,Region IX,%
+Poverty Incidence among Families (%),2018,Region X,  17.3 ,Region,Region X,%
+Poverty Incidence among Families (%),2018,Bukidnon,  22.3 ,Province,Region X,%
+Poverty Incidence among Families (%),2018,Camiguin,  17.9 ,Province,Region X,%
+Poverty Incidence among Families (%),2018,Lanao del Norte,  19.0 ,Province,Region X,%
+Poverty Incidence among Families (%),2018,Misamis Occidental,  19.5 ,Province,Region X,%
+Poverty Incidence among Families (%),2018,Misamis Oriental,  11.4 ,Province,Region X,%
+Poverty Incidence among Families (%),2018,Region XI,  13.9 ,Region,Region XI,%
+Poverty Incidence among Families (%),2018,Davao del Norte,10.3,Province,Region XI,%
+Poverty Incidence among Families (%),2018,Davao del Sur,8.1,Province,Region XI,%
+Poverty Incidence among Families (%),2018,Davao Oriental,27.7,Province,Region XI,%
+Poverty Incidence among Families (%),2018,Davao de Oro,18.6,Province,Region XI,%
+Poverty Incidence among Families (%),2018,Davao Occidental,31.9,Province,Region XI,%
+Poverty Incidence among Families (%),2018,Region XII,  22.4 ,Region,Region XII,%
+Poverty Incidence among Families (%),2018,Cotabato,  23.6 ,Province,Region XII,%
+Poverty Incidence among Families (%),2018,Sarangani,  36.1 ,Province,Region XII,%
+Poverty Incidence among Families (%),2018,South Cotabato,  13.7 ,Province,Region XII,%
+Poverty Incidence among Families (%),2018,Sultan Kudarat,  24.3 ,Province,Region XII,%
+Poverty Incidence among Families (%),2018,Cotabato City,  35.2 ,Province,Region XII,%
+Poverty Incidence among Families (%),2018,Region XIII,  24.1 ,Region,Region XIII,%
+Poverty Incidence among Families (%),2018,Agusan del Norte,  18.9 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2018,Agusan del Sur,  30.6 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2018,Surigao Del Norte,  27.7 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2018,Surigao Del Sur,  19.2 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2018,Dinagat Islands,  26.5 ,Province,Region XIII,%
+Poverty Incidence among Families (%),2018,ARMM,  54.2 ,Region,ARMM,%
+Poverty Incidence among Families (%),2018,Basilan,  66.3 ,Province,ARMM,%
+Poverty Incidence among Families (%),2018,Lanao del Sur,  64.2 ,Province,ARMM,%
+Poverty Incidence among Families (%),2018,Maguindanao,  40.6 ,Province,ARMM,%
+Poverty Incidence among Families (%),2018,Sulu,  75.3 ,Province,ARMM,%
+Poverty Incidence among Families (%),2018,Tawi-tawi,  15.1 ,Province,ARMM,%
+Poverty Incidence among Population (%),2018,PHILIPPINES,  16.7 ,Country,Philippines,%
+Poverty Incidence among Population (%),2018,NCR,  2.2 ,Region,NCR,%
+Poverty Incidence among Population (%),2018,1st District,3.0,District,NCR,%
+Poverty Incidence among Population (%),2018,2nd District,2.3,District,NCR,%
+Poverty Incidence among Population (%),2018,3rd District,3.3,District,NCR,%
+Poverty Incidence among Population (%),2018,4th District,1.1,District,NCR,%
+Poverty Incidence among Population (%),2018,CAR,  12.0 ,Region,CAR,%
+Poverty Incidence among Population (%),2018,Abra,  18.6 ,Province,CAR,%
+Poverty Incidence among Population (%),2018,Apayao,  19.7 ,Province,CAR,%
+Poverty Incidence among Population (%),2018,Benguet,  6.0 ,Province,CAR,%
+Poverty Incidence among Population (%),2018,Ifugao,  14.5 ,Province,CAR,%
+Poverty Incidence among Population (%),2018,Kalinga,  12.1 ,Province,CAR,%
+Poverty Incidence among Population (%),2018,Mt. Province,  24.6 ,Province,CAR,%
+Poverty Incidence among Population (%),2018,Region I,  9.9 ,Region,Region I,%
+Poverty Incidence among Population (%),2018,Ilocos Norte,  4.5 ,Province,Region I,%
+Poverty Incidence among Population (%),2018,Ilocos Sur,  7.5 ,Province,Region I,%
+Poverty Incidence among Population (%),2018,La Union,  4.4 ,Province,Region I,%
+Poverty Incidence among Population (%),2018,Pangasinan,  12.9 ,Province,Region I,%
+Poverty Incidence among Population (%),2018,Region II,  16.3 ,Region,Region II,%
+Poverty Incidence among Population (%),2018,Batanes,  9.6 ,Province,Region II,%
+Poverty Incidence among Population (%),2018,Cagayan,  16.0 ,Province,Region II,%
+Poverty Incidence among Population (%),2018,Isabela,  17.1 ,Province,Region II,%
+Poverty Incidence among Population (%),2018,Nueva Vizcaya,  16.1 ,Province,Region II,%
+Poverty Incidence among Population (%),2018,Quirino,  12.6 ,Province,Region II,%
+Poverty Incidence among Population (%),2018,Region III,  7.0 ,Region,Region III,%
+Poverty Incidence among Population (%),2018,Aurora,  16.4 ,Province,Region III,%
+Poverty Incidence among Population (%),2018,Bataan,  7.9 ,Province,Region III,%
+Poverty Incidence among Population (%),2018,Bulacan,  5.1 ,Province,Region III,%
+Poverty Incidence among Population (%),2018,Nueva Ecija,  8.5 ,Province,Region III,%
+Poverty Incidence among Population (%),2018,Pampanga,  3.0 ,Province,Region III,%
+Poverty Incidence among Population (%),2018,Tarlac,  10.5 ,Province,Region III,%
+Poverty Incidence among Population (%),2018,Zambales,  15.2 ,Province,Region III,%
+Poverty Incidence among Population (%),2018,Region IV-A,  7.1 ,Region,Region IV-A,%
+Poverty Incidence among Population (%),2018,Batangas,  11.4 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2018,Cavite,  5.3 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2018,Laguna,  3.9 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2018,Quezon,  13.5 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2018,Rizal,  4.5 ,Province,Region IV-A,%
+Poverty Incidence among Population (%),2018,Region IV-B,  15.1 ,Region,Region IV-B,%
+Poverty Incidence among Population (%),2018,Marinduque ,  14.7 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2018,Occidental Mindoro,  21.7 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2018,Oriental Mindoro,  10.8 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2018,Palawan,  12.1 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2018,Romblon,  28.3 ,Province,Region IV-B,%
+Poverty Incidence among Population (%),2018,Region V,  27.0 ,Region,Region V,%
+Poverty Incidence among Population (%),2018,Albay,  21.2 ,Province,Region V,%
+Poverty Incidence among Population (%),2018,Camarines Norte,  30.5 ,Province,Region V,%
+Poverty Incidence among Population (%),2018,Camarines Sur,  28.4 ,Province,Region V,%
+Poverty Incidence among Population (%),2018,Catanduanes,  20.3 ,Province,Region V,%
+Poverty Incidence among Population (%),2018,Masbate,  33.0 ,Province,Region V,%
+Poverty Incidence among Population (%),2018,Sorsogon,  26.1 ,Province,Region V,%
+Poverty Incidence among Population (%),2018,Region VI,  16.3 ,Region,Region VI,%
+Poverty Incidence among Population (%),2018,Aklan,  12.1 ,Province,Region VI,%
+Poverty Incidence among Population (%),2018,Antique,  19.1 ,Province,Region VI,%
+Poverty Incidence among Population (%),2018,Capiz,  6.2 ,Province,Region VI,%
+Poverty Incidence among Population (%),2018,Guimaras,  9.5 ,Province,Region VI,%
+Poverty Incidence among Population (%),2018,Iloilo,  16.5 ,Province,Region VI,%
+Poverty Incidence among Population (%),2018,Negros Occidental,  19.4 ,Province,Region VI,%
+Poverty Incidence among Population (%),2018,Region VII,  17.7 ,Region,Region VII,%
+Poverty Incidence among Population (%),2018,Bohol,  20.9 ,Province,Region VII,%
+Poverty Incidence among Population (%),2018,Cebu,  14.8 ,Province,Region VII,%
+Poverty Incidence among Population (%),2018,Negros Oriental,  25.5 ,Province,Region VII,%
+Poverty Incidence among Population (%),2018,Siquijor,  10.4 ,Province,Region VII,%
+Poverty Incidence among Population (%),2018,Region VIII,  30.7 ,Region,Region VIII,%
+Poverty Incidence among Population (%),2018,Biliran,  19.6 ,Province,Region VIII,%
+Poverty Incidence among Population (%),2018,Eastern Samar,49.5,Province,Region VIII,%
+Poverty Incidence among Population (%),2018,Leyte,28.2,Province,Region VIII,%
+Poverty Incidence among Population (%),2018,Northern Samar,34.3,Province,Region VIII,%
+Poverty Incidence among Population (%),2018,Southern Leyte,  23.7 ,Province,Region VIII,%
+Poverty Incidence among Population (%),2018,Samar,  29.2 ,Province,Region VIII,%
+Poverty Incidence among Population (%),2018,Region IX,  32.7 ,Region,Region IX,%
+Poverty Incidence among Population (%),2018,Zamboanga del Norte,  45.4 ,Province,Region IX,%
+Poverty Incidence among Population (%),2018,Zamboanga del Sur,  23.7 ,Province,Region IX,%
+Poverty Incidence among Population (%),2018,Zamboanga Sibugay,  35.4 ,Province,Region IX,%
+Poverty Incidence among Population (%),2018,Isabela City,  51.0 ,Province,Region IX,%
+Poverty Incidence among Population (%),2018,Region X,  23.1 ,Region,Region X,%
+Poverty Incidence among Population (%),2018,Bukidnon,  27.6 ,Province,Region X,%
+Poverty Incidence among Population (%),2018,Camiguin,  24.3 ,Province,Region X,%
+Poverty Incidence among Population (%),2018,Lanao del Norte,  25.8 ,Province,Region X,%
+Poverty Incidence among Population (%),2018,Misamis Occidental,  26.8 ,Province,Region X,%
+Poverty Incidence among Population (%),2018,Misamis Oriental,  15.8 ,Province,Region X,%
+Poverty Incidence among Population (%),2018,Region XI,  19.1 ,Region,Region XI,%
+Poverty Incidence among Population (%),2018,Davao del Norte,13.4,Province,Region XI,%
+Poverty Incidence among Population (%),2018,Davao del Sur,11.8,Province,Region XI,%
+Poverty Incidence among Population (%),2018,Davao Oriental,37.7,Province,Region XI,%
+Poverty Incidence among Population (%),2018,Davao de Oro,25.2,Province,Region XI,%
+Poverty Incidence among Population (%),2018,Davao Occidental,40.8,Province,Region XI,%
+Poverty Incidence among Population (%),2018,Region XII,  28.2 ,Region,Region XII,%
+Poverty Incidence among Population (%),2018,Cotabato,  29.2 ,Province,Region XII,%
+Poverty Incidence among Population (%),2018,Sarangani,  41.9 ,Province,Region XII,%
+Poverty Incidence among Population (%),2018,South Cotabato,  18.0 ,Province,Region XII,%
+Poverty Incidence among Population (%),2018,Sultan Kudarat,  31.5 ,Province,Region XII,%
+Poverty Incidence among Population (%),2018,Cotabato City,  42.0 ,Province,Region XII,%
+Poverty Incidence among Population (%),2018,Region XIII,  30.5 ,Region,Region XIII,%
+Poverty Incidence among Population (%),2018,Agusan del Norte,  24.4 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2018,Agusan del Sur,  37.9 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2018,Surigao Del Norte,  34.4 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2018,Surigao Del Sur,  25.4 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2018,Dinagat Islands,  32.8 ,Province,Region XIII,%
+Poverty Incidence among Population (%),2018,ARMM,  61.8 ,Region,ARMM,%
+Poverty Incidence among Population (%),2018,Basilan,  73.5 ,Province,ARMM,%
+Poverty Incidence among Population (%),2018,Lanao del Sur,  71.2 ,Province,ARMM,%
+Poverty Incidence among Population (%),2018,Maguindanao,  48.5 ,Province,ARMM,%
+Poverty Incidence among Population (%),2018,Sulu,  82.5 ,Province,ARMM,%
+Poverty Incidence among Population (%),2018,Tawi-tawi,  22.2 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2018,PHILIPPINES,  5.2 ,Country,Philippines,%
+Subsistence Incidence among Population (%),2018,NCR,  0.4 ,Region,NCR,%
+Subsistence Incidence among Population (%),2018,1st District,0.7,District,NCR,%
+Subsistence Incidence among Population (%),2018,2nd District,0.3,District,NCR,%
+Subsistence Incidence among Population (%),2018,3rd District,0.9,District,NCR,%
+Subsistence Incidence among Population (%),2018,4th District,0.1,District,NCR,%
+Subsistence Incidence among Population (%),2018,CAR,  3.3 ,Region,CAR,%
+Subsistence Incidence among Population (%),2018,Abra,  6.0 ,Province,CAR,%
+Subsistence Incidence among Population (%),2018,Apayao,  5.6 ,Province,CAR,%
+Subsistence Incidence among Population (%),2018,Benguet,  1.7 ,Province,CAR,%
+Subsistence Incidence among Population (%),2018,Ifugao,  1.8 ,Province,CAR,%
+Subsistence Incidence among Population (%),2018,Kalinga,  2.2 ,Province,CAR,%
+Subsistence Incidence among Population (%),2018,Mt. Province,  9.2 ,Province,CAR,%
+Subsistence Incidence among Population (%),2018,Region I,  1.7 ,Region,Region I,%
+Subsistence Incidence among Population (%),2018,Ilocos Norte,  0.2 ,Province,Region I,%
+Subsistence Incidence among Population (%),2018,Ilocos Sur,  1.0 ,Province,Region I,%
+Subsistence Incidence among Population (%),2018,La Union,  0.4 ,Province,Region I,%
+Subsistence Incidence among Population (%),2018,Pangasinan,  2.6 ,Province,Region I,%
+Subsistence Incidence among Population (%),2018,Region II,  4.3 ,Region,Region II,%
+Subsistence Incidence among Population (%),2018,Batanes,  2.1 ,Province,Region II,%
+Subsistence Incidence among Population (%),2018,Cagayan,  4.1 ,Province,Region II,%
+Subsistence Incidence among Population (%),2018,Isabela,  4.4 ,Province,Region II,%
+Subsistence Incidence among Population (%),2018,Nueva Vizcaya,  5.1 ,Province,Region II,%
+Subsistence Incidence among Population (%),2018,Quirino,  2.4 ,Province,Region II,%
+Subsistence Incidence among Population (%),2018,Region III,  1.5 ,Region,Region III,%
+Subsistence Incidence among Population (%),2018,Aurora,  3.8 ,Province,Region III,%
+Subsistence Incidence among Population (%),2018,Bataan,  2.1 ,Province,Region III,%
+Subsistence Incidence among Population (%),2018,Bulacan,  1.1 ,Province,Region III,%
+Subsistence Incidence among Population (%),2018,Nueva Ecija,  1.3 ,Province,Region III,%
+Subsistence Incidence among Population (%),2018,Pampanga,  0.3 ,Province,Region III,%
+Subsistence Incidence among Population (%),2018,Tarlac,  1.9 ,Province,Region III,%
+Subsistence Incidence among Population (%),2018,Zambales,  4.9 ,Province,Region III,%
+Subsistence Incidence among Population (%),2018,Region IV-A,  1.5 ,Region,Region IV-A,%
+Subsistence Incidence among Population (%),2018,Batangas,  1.6 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2018,Cavite,  1.3 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2018,Laguna,  0.3 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2018,Quezon,  4.1 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2018,Rizal,  1.0 ,Province,Region IV-A,%
+Subsistence Incidence among Population (%),2018,Region IV-B,  4.3 ,Region,Region IV-B,%
+Subsistence Incidence among Population (%),2018,Marinduque ,  4.0 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2018,Occidental Mindoro,  7.6 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2018,Oriental Mindoro,  3.0 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2018,Palawan,  2.9 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2018,Romblon,  8.0 ,Province,Region IV-B,%
+Subsistence Incidence among Population (%),2018,Region V,  7.1 ,Region,Region V,%
+Subsistence Incidence among Population (%),2018,Albay,  5.4 ,Province,Region V,%
+Subsistence Incidence among Population (%),2018,Camarines Norte,  8.1 ,Province,Region V,%
+Subsistence Incidence among Population (%),2018,Camarines Sur,  8.1 ,Province,Region V,%
+Subsistence Incidence among Population (%),2018,Catanduanes,  5.2 ,Province,Region V,%
+Subsistence Incidence among Population (%),2018,Masbate,  7.6 ,Province,Region V,%
+Subsistence Incidence among Population (%),2018,Sorsogon,  6.6 ,Province,Region V,%
+Subsistence Incidence among Population (%),2018,Region VI,  4.2 ,Region,Region VI,%
+Subsistence Incidence among Population (%),2018,Aklan,  1.9 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2018,Antique,  5.2 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2018,Capiz,  0.4 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2018,Guimaras,  0.9 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2018,Iloilo,  3.2 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2018,Negros Occidental,  6.2 ,Province,Region VI,%
+Subsistence Incidence among Population (%),2018,Region VII,  4.8 ,Region,Region VII,%
+Subsistence Incidence among Population (%),2018,Bohol,  4.3 ,Province,Region VII,%
+Subsistence Incidence among Population (%),2018,Cebu,  3.4 ,Province,Region VII,%
+Subsistence Incidence among Population (%),2018,Negros Oriental,  10.5 ,Province,Region VII,%
+Subsistence Incidence among Population (%),2018,Siquijor,  3.4 ,Province,Region VII,%
+Subsistence Incidence among Population (%),2018,Region VIII,  10.0 ,Region,Region VIII,%
+Subsistence Incidence among Population (%),2018,Biliran,  3.5 ,Province,Region VIII,%
+Subsistence Incidence among Population (%),2018,Eastern Samar,22.0,Province,Region VIII,%
+Subsistence Incidence among Population (%),2018,Leyte,8.6,Province,Region VIII,%
+Subsistence Incidence among Population (%),2018,Northern Samar,10.6,Province,Region VIII,%
+Subsistence Incidence among Population (%),2018,Southern Leyte,  5.9 ,Province,Region VIII,%
+Subsistence Incidence among Population (%),2018,Samar,  9.6 ,Province,Region VIII,%
+Subsistence Incidence among Population (%),2018,Region IX,  12.4 ,Region,Region IX,%
+Subsistence Incidence among Population (%),2018,Zamboanga del Norte,  22.0 ,Province,Region IX,%
+Subsistence Incidence among Population (%),2018,Zamboanga del Sur,  6.7 ,Province,Region IX,%
+Subsistence Incidence among Population (%),2018,Zamboanga Sibugay,  12.4 ,Province,Region IX,%
+Subsistence Incidence among Population (%),2018,Isabela City,  18.4 ,Province,Region IX,%
+Subsistence Incidence among Population (%),2018,Region X,  5.9 ,Region,Region X,%
+Subsistence Incidence among Population (%),2018,Bukidnon,  8.0 ,Province,Region X,%
+Subsistence Incidence among Population (%),2018,Camiguin,  5.2 ,Province,Region X,%
+Subsistence Incidence among Population (%),2018,Lanao del Norte,  6.3 ,Province,Region X,%
+Subsistence Incidence among Population (%),2018,Misamis Occidental,  6.6 ,Province,Region X,%
+Subsistence Incidence among Population (%),2018,Misamis Oriental,  3.6 ,Province,Region X,%
+Subsistence Incidence among Population (%),2018,Region XI,  5.6 ,Region,Region XI,%
+Subsistence Incidence among Population (%),2018,Davao del Norte,3.3,Province,Region XI,%
+Subsistence Incidence among Population (%),2018,Davao del Sur,3.4,Province,Region XI,%
+Subsistence Incidence among Population (%),2018,Davao Oriental,11.5,Province,Region XI,%
+Subsistence Incidence among Population (%),2018,Davao de Oro,7.8,Province,Region XI,%
+Subsistence Incidence among Population (%),2018,Davao Occidental,12.9,Province,Region XI,%
+Subsistence Incidence among Population (%),2018,Region XII,  11.4 ,Region,Region XII,%
+Subsistence Incidence among Population (%),2018,Cotabato,  11.8 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2018,Sarangani,  21.8 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2018,South Cotabato,  5.9 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2018,Sultan Kudarat,  13.2 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2018,Cotabato City,  14.1 ,Province,Region XII,%
+Subsistence Incidence among Population (%),2018,Region XIII,  10.0 ,Region,Region XIII,%
+Subsistence Incidence among Population (%),2018,Agusan del Norte,  8.3 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2018,Agusan del Sur,  12.9 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2018,Surigao Del Norte,  11.1 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2018,Surigao Del Sur,  7.9 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2018,Dinagat Islands,  9.9 ,Province,Region XIII,%
+Subsistence Incidence among Population (%),2018,ARMM,  30.2 ,Region,ARMM,%
+Subsistence Incidence among Population (%),2018,Basilan,  42.4 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2018,Lanao del Sur,  38.3 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2018,Maguindanao,  20.2 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2018,Sulu,  41.6 ,Province,ARMM,%
+Subsistence Incidence among Population (%),2018,Tawi-tawi,  3.4 ,Province,ARMM,%
+Magnitude of Poor Families,2018,PHILIPPINES,3005,Country,Philippines,families
+Magnitude of Poor Families,2018,NCR,48,Region,NCR,families
+Magnitude of Poor Families,2018,1st District,9,District,NCR,families
+Magnitude of Poor Families,2018,2nd District,16,District,NCR,families
+Magnitude of Poor Families,2018,3rd District,15,District,NCR,families
+Magnitude of Poor Families,2018,4th District,7,District,NCR,families
+Magnitude of Poor Families,2018,CAR,36,Region,CAR,families
+Magnitude of Poor Families,2018,Abra,8,Province,CAR,families
+Magnitude of Poor Families,2018,Apayao,4,Province,CAR,families
+Magnitude of Poor Families,2018,Benguet,9,Province,CAR,families
+Magnitude of Poor Families,2018,Ifugao,4,Province,CAR,families
+Magnitude of Poor Families,2018,Kalinga,4,Province,CAR,families
+Magnitude of Poor Families,2018,Mt. Province,6,Province,CAR,families
+Magnitude of Poor Families,2018,Region I,85,Region,Region I,families
+Magnitude of Poor Families,2018,Ilocos Norte,4,Province,Region I,families
+Magnitude of Poor Families,2018,Ilocos Sur,9,Province,Region I,families
+Magnitude of Poor Families,2018,La Union,6,Province,Region I,families
+Magnitude of Poor Families,2018,Pangasinan,66,Province,Region I,families
+Magnitude of Poor Families,2018,Region II,106,Region,Region II,families
+Magnitude of Poor Families,2018,Batanes,0,Province,Region II,families
+Magnitude of Poor Families,2018,Cagayan,36,Province,Region II,families
+Magnitude of Poor Families,2018,Isabela,52,Province,Region II,families
+Magnitude of Poor Families,2018,Nueva Vizcaya,14,Province,Region II,families
+Magnitude of Poor Families,2018,Quirino,4,Province,Region II,families
+Magnitude of Poor Families,2018,Region III,143,Region,Region III,families
+Magnitude of Poor Families,2018,Aurora,6,Province,Region III,families
+Magnitude of Poor Families,2018,Bataan,11,Province,Region III,families
+Magnitude of Poor Families,2018,Bulacan,29,Province,Region III,families
+Magnitude of Poor Families,2018,Nueva Ecija,35,Province,Region III,families
+Magnitude of Poor Families,2018,Pampanga,14,Province,Region III,families
+Magnitude of Poor Families,2018,Tarlac,25,Province,Region III,families
+Magnitude of Poor Families,2018,Zambales,23,Province,Region III,families
+Magnitude of Poor Families,2018,Region IV-A,190,Region,Region IV-A,families
+Magnitude of Poor Families,2018,Batangas,58,Province,Region IV-A,families
+Magnitude of Poor Families,2018,Cavite,37,Province,Region IV-A,families
+Magnitude of Poor Families,2018,Laguna,23,Province,Region IV-A,families
+Magnitude of Poor Families,2018,Quezon,48,Province,Region IV-A,families
+Magnitude of Poor Families,2018,Rizal,24,Province,Region IV-A,families
+Magnitude of Poor Families,2018,Region IV-B,77,Region,Region IV-B,families
+Magnitude of Poor Families,2018,Marinduque ,6,Province,Region IV-B,families
+Magnitude of Poor Families,2018,Occidental Mindoro,19,Province,Region IV-B,families
+Magnitude of Poor Families,2018,Oriental Mindoro,15,Province,Region IV-B,families
+Magnitude of Poor Families,2018,Palawan,24,Province,Region IV-B,families
+Magnitude of Poor Families,2018,Romblon,14,Province,Region IV-B,families
+Magnitude of Poor Families,2018,Region V,256,Region,Region V,families
+Magnitude of Poor Families,2018,Albay,43,Province,Region V,families
+Magnitude of Poor Families,2018,Camarines Norte,31,Province,Region V,families
+Magnitude of Poor Families,2018,Camarines Sur,88,Province,Region V,families
+Magnitude of Poor Families,2018,Catanduanes,8,Province,Region V,families
+Magnitude of Poor Families,2018,Masbate,51,Province,Region V,families
+Magnitude of Poor Families,2018,Sorsogon,34,Province,Region V,families
+Magnitude of Poor Families,2018,Region VI,218,Region,Region VI,families
+Magnitude of Poor Families,2018,Aklan,13,Province,Region VI,families
+Magnitude of Poor Families,2018,Antique,18,Province,Region VI,families
+Magnitude of Poor Families,2018,Capiz,8,Province,Region VI,families
+Magnitude of Poor Families,2018,Guimaras,3,Province,Region VI,families
+Magnitude of Poor Families,2018,Iloilo,69,Province,Region VI,families
+Magnitude of Poor Families,2018,Negros Occidental,108,Province,Region VI,families
+Magnitude of Poor Families,2018,Region VII,246,Region,Region VII,families
+Magnitude of Poor Families,2018,Bohol,47,Province,Region VII,families
+Magnitude of Poor Families,2018,Cebu,134,Province,Region VII,families
+Magnitude of Poor Families,2018,Negros Oriental,63,Province,Region VII,families
+Magnitude of Poor Families,2018,Siquijor,2,Province,Region VII,families
+Magnitude of Poor Families,2018,Region VIII,253,Region,Region VIII,families
+Magnitude of Poor Families,2018,Biliran,6,Province,Region VIII,families
+Magnitude of Poor Families,2018,Eastern Samar,48,Province,Region VIII,families
+Magnitude of Poor Families,2018,Leyte,107,Province,Region VIII,families
+Magnitude of Poor Families,2018,Northern Samar,37,Province,Region VIII,families
+Magnitude of Poor Families,2018,Southern Leyte,16,Province,Region VIII,families
+Magnitude of Poor Families,2018,Samar,39,Province,Region VIII,families
+Magnitude of Poor Families,2018,Region IX,213,Region,Region IX,families
+Magnitude of Poor Families,2018,Zamboanga del Norte,87,Province,Region IX,families
+Magnitude of Poor Families,2018,Zamboanga del Sur,74,Province,Region IX,families
+Magnitude of Poor Families,2018,Zamboanga Sibugay,41,Province,Region IX,families
+Magnitude of Poor Families,2018,Isabela City,10,Province,Region IX,families
+Magnitude of Poor Families,2018,Region X,194,Region,Region X,families
+Magnitude of Poor Families,2018,Bukidnon,73,Province,Region X,families
+Magnitude of Poor Families,2018,Camiguin,4,Province,Region X,families
+Magnitude of Poor Families,2018,Lanao del Norte,44,Province,Region X,families
+Magnitude of Poor Families,2018,Misamis Occidental,27,Province,Region X,families
+Magnitude of Poor Families,2018,Misamis Oriental,45,Province,Region X,families
+Magnitude of Poor Families,2018,Region XI,178,Region,Region XI,families
+Magnitude of Poor Families,2018,Davao del Norte,25,Province,Region XI,families
+Magnitude of Poor Families,2018,Davao del Sur,52,Province,Region XI,families
+Magnitude of Poor Families,2018,Davao Oriental,22,Province,Region XI,families
+Magnitude of Poor Families,2018,Davao de Oro,33,Province,Region XI,families
+Magnitude of Poor Families,2018,Davao Occidental,47,Province,Region XI,families
+Magnitude of Poor Families,2018,Region XII,253,Region,Region XII,families
+Magnitude of Poor Families,2018,Cotabato,83,Province,Region XII,families
+Magnitude of Poor Families,2018,Sarangani,48,Province,Region XII,families
+Magnitude of Poor Families,2018,South Cotabato,54,Province,Region XII,families
+Magnitude of Poor Families,2018,Sultan Kudarat,46,Province,Region XII,families
+Magnitude of Poor Families,2018,Cotabato City,21,Province,Region XII,families
+Magnitude of Poor Families,2018,Region XIII,149,Region,Region XIII,families
+Magnitude of Poor Families,2018,Agusan del Norte,32,Province,Region XIII,families
+Magnitude of Poor Families,2018,Agusan del Sur,50,Province,Region XIII,families
+Magnitude of Poor Families,2018,Surigao Del Norte,33,Province,Region XIII,families
+Magnitude of Poor Families,2018,Surigao Del Sur,27,Province,Region XIII,families
+Magnitude of Poor Families,2018,Dinagat Islands,8,Province,Region XIII,families
+Magnitude of Poor Families,2018,ARMM,356,Region,ARMM,families
+Magnitude of Poor Families,2018,Basilan,42,Province,ARMM,families
+Magnitude of Poor Families,2018,Lanao del Sur,109,Province,ARMM,families
+Magnitude of Poor Families,2018,Maguindanao,85,Province,ARMM,families
+Magnitude of Poor Families,2018,Sulu,110,Province,ARMM,families
+Magnitude of Poor Families,2018,Tawi-tawi,10,Province,ARMM,families
+Magnitude of Poor Population,2018,PHILIPPINES,17670,Country,Philippines,population
+Magnitude of Poor Population,2018,NCR,302,Region,NCR,population
+Magnitude of Poor Population,2018,1st District,55,District,NCR,population
+Magnitude of Poor Population,2018,2nd District,111,District,NCR,population
+Magnitude of Poor Population,2018,3rd District,94,District,NCR,population
+Magnitude of Poor Population,2018,4th District,42,District,NCR,population
+Magnitude of Poor Population,2018,CAR,214,Region,CAR,population
+Magnitude of Poor Population,2018,Abra,46,Province,CAR,population
+Magnitude of Poor Population,2018,Apayao,24,Province,CAR,population
+Magnitude of Poor Population,2018,Benguet,49,Province,CAR,population
+Magnitude of Poor Population,2018,Ifugao,30,Province,CAR,population
+Magnitude of Poor Population,2018,Kalinga,26,Province,CAR,population
+Magnitude of Poor Population,2018,Mt. Province,38,Province,CAR,population
+Magnitude of Poor Population,2018,Region I,510,Region,Region I,population
+Magnitude of Poor Population,2018,Ilocos Norte,27,Province,Region I,population
+Magnitude of Poor Population,2018,Ilocos Sur,53,Province,Region I,population
+Magnitude of Poor Population,2018,La Union,36,Province,Region I,population
+Magnitude of Poor Population,2018,Pangasinan,394,Province,Region I,population
+Magnitude of Poor Population,2018,Region II,583,Region,Region II,population
+Magnitude of Poor Population,2018,Batanes,2,Province,Region II,population
+Magnitude of Poor Population,2018,Cagayan,199,Province,Region II,population
+Magnitude of Poor Population,2018,Isabela,282,Province,Region II,population
+Magnitude of Poor Population,2018,Nueva Vizcaya,76,Province,Region II,population
+Magnitude of Poor Population,2018,Quirino,24,Province,Region II,population
+Magnitude of Poor Population,2018,Region III,837,Region,Region III,population
+Magnitude of Poor Population,2018,Aurora,36,Province,Region III,population
+Magnitude of Poor Population,2018,Bataan,64,Province,Region III,population
+Magnitude of Poor Population,2018,Bulacan,177,Province,Region III,population
+Magnitude of Poor Population,2018,Nueva Ecija,194,Province,Region III,population
+Magnitude of Poor Population,2018,Pampanga,84,Province,Region III,population
+Magnitude of Poor Population,2018,Tarlac,149,Province,Region III,population
+Magnitude of Poor Population,2018,Zambales,132,Province,Region III,population
+Magnitude of Poor Population,2018,Region IV-A,1102,Region,Region IV-A,population
+Magnitude of Poor Population,2018,Batangas,330,Province,Region IV-A,population
+Magnitude of Poor Population,2018,Cavite,211,Province,Region IV-A,population
+Magnitude of Poor Population,2018,Laguna,125,Province,Region IV-A,population
+Magnitude of Poor Population,2018,Quezon,298,Province,Region IV-A,population
+Magnitude of Poor Population,2018,Rizal,138,Province,Region IV-A,population
+Magnitude of Poor Population,2018,Region IV-B,467,Region,Region IV-B,population
+Magnitude of Poor Population,2018,Marinduque ,35,Province,Region IV-B,population
+Magnitude of Poor Population,2018,Occidental Mindoro,110,Province,Region IV-B,population
+Magnitude of Poor Population,2018,Oriental Mindoro,95,Province,Region IV-B,population
+Magnitude of Poor Population,2018,Palawan,142,Province,Region IV-B,population
+Magnitude of Poor Population,2018,Romblon,84,Province,Region IV-B,population
+Magnitude of Poor Population,2018,Region V,1621,Region,Region V,population
+Magnitude of Poor Population,2018,Albay,289,Province,Region V,population
+Magnitude of Poor Population,2018,Camarines Norte,185,Province,Region V,population
+Magnitude of Poor Population,2018,Camarines Sur,574,Province,Region V,population
+Magnitude of Poor Population,2018,Catanduanes,54,Province,Region V,population
+Magnitude of Poor Population,2018,Masbate,303,Province,Region V,population
+Magnitude of Poor Population,2018,Sorsogon,215,Province,Region V,population
+Magnitude of Poor Population,2018,Region VI,1267,Region,Region VI,population
+Magnitude of Poor Population,2018,Aklan,72,Province,Region VI,population
+Magnitude of Poor Population,2018,Antique,115,Province,Region VI,population
+Magnitude of Poor Population,2018,Capiz,48,Province,Region VI,population
+Magnitude of Poor Population,2018,Guimaras,17,Province,Region VI,population
+Magnitude of Poor Population,2018,Iloilo,408,Province,Region VI,population
+Magnitude of Poor Population,2018,Negros Occidental,607,Province,Region VI,population
+Magnitude of Poor Population,2018,Region VII,1371,Region,Region VII,population
+Magnitude of Poor Population,2018,Bohol,281,Province,Region VII,population
+Magnitude of Poor Population,2018,Cebu,725,Province,Region VII,population
+Magnitude of Poor Population,2018,Negros Oriental,354,Province,Region VII,population
+Magnitude of Poor Population,2018,Siquijor,10,Province,Region VII,population
+Magnitude of Poor Population,2018,Region VIII,1420,Region,Region VIII,population
+Magnitude of Poor Population,2018,Biliran,35,Province,Region VIII,population
+Magnitude of Poor Population,2018,Eastern Samar,241,Province,Region VIII,population
+Magnitude of Poor Population,2018,Leyte,581,Province,Region VIII,population
+Magnitude of Poor Population,2018,Northern Samar,224,Province,Region VIII,population
+Magnitude of Poor Population,2018,Southern Leyte,103,Province,Region VIII,population
+Magnitude of Poor Population,2018,Samar,236,Province,Region VIII,population
+Magnitude of Poor Population,2018,Region IX,1218,Region,Region IX,population
+Magnitude of Poor Population,2018,Zamboanga del Norte,470,Province,Region IX,population
+Magnitude of Poor Population,2018,Zamboanga del Sur,452,Province,Region IX,population
+Magnitude of Poor Population,2018,Zamboanga Sibugay,234,Province,Region IX,population
+Magnitude of Poor Population,2018,Isabela City,62,Province,Region IX,population
+Magnitude of Poor Population,2018,Region X,1129,Region,Region X,population
+Magnitude of Poor Population,2018,Bukidnon,406,Province,Region X,population
+Magnitude of Poor Population,2018,Camiguin,22,Province,Region X,population
+Magnitude of Poor Population,2018,Lanao del Norte,275,Province,Region X,population
+Magnitude of Poor Population,2018,Misamis Occidental,166,Province,Region X,population
+Magnitude of Poor Population,2018,Misamis Oriental,260,Province,Region X,population
+Magnitude of Poor Population,2018,Region XI,978,Region,Region XI,population
+Magnitude of Poor Population,2018,Davao del Norte,140,Province,Region XI,population
+Magnitude of Poor Population,2018,Davao del Sur,284,Province,Region XI,population
+Magnitude of Poor Population,2018,Davao Oriental,124,Province,Region XI,population
+Magnitude of Poor Population,2018,Davao de Oro,191,Province,Region XI,population
+Magnitude of Poor Population,2018,Davao Occidental,238,Province,Region XI,population
+Magnitude of Poor Population,2018,Region XII,1348,Region,Region XII,population
+Magnitude of Poor Population,2018,Cotabato,430,Province,Region XII,population
+Magnitude of Poor Population,2018,Sarangani,238,Province,Region XII,population
+Magnitude of Poor Population,2018,South Cotabato,287,Province,Region XII,population
+Magnitude of Poor Population,2018,Sultan Kudarat,264,Province,Region XII,population
+Magnitude of Poor Population,2018,Cotabato City,128,Province,Region XII,population
+Magnitude of Poor Population,2018,Region XIII,822,Region,Region XIII,population
+Magnitude of Poor Population,2018,Agusan del Norte,176,Province,Region XIII,population
+Magnitude of Poor Population,2018,Agusan del Sur,274,Province,Region XIII,population
+Magnitude of Poor Population,2018,Surigao Del Norte,175,Province,Region XIII,population
+Magnitude of Poor Population,2018,Surigao Del Sur,155,Province,Region XIII,population
+Magnitude of Poor Population,2018,Dinagat Islands,42,Province,Region XIII,population
+Magnitude of Poor Population,2018,ARMM,2481,Region,ARMM,population
+Magnitude of Poor Population,2018,Basilan,272,Province,ARMM,population
+Magnitude of Poor Population,2018,Lanao del Sur,786,Province,ARMM,population
+Magnitude of Poor Population,2018,Maguindanao,611,Province,ARMM,population
+Magnitude of Poor Population,2018,Sulu,723,Province,ARMM,population
+Magnitude of Poor Population,2018,Tawi-tawi,90,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2018,PHILIPPINES,5541,Country,Philippines,population
+Magnitude of Subsistence Poor Population,2018,NCR,54,Region,NCR,population
+Magnitude of Subsistence Poor Population,2018,1st District,13,District,NCR,population
+Magnitude of Subsistence Poor Population,2018,2nd District,14,District,NCR,population
+Magnitude of Subsistence Poor Population,2018,3rd District,25,District,NCR,population
+Magnitude of Subsistence Poor Population,2018,4th District,3,District,NCR,population
+Magnitude of Subsistence Poor Population,2018,CAR,59,Region,CAR,population
+Magnitude of Subsistence Poor Population,2018,Abra,15,Province,CAR,population
+Magnitude of Subsistence Poor Population,2018,Apayao,7,Province,CAR,population
+Magnitude of Subsistence Poor Population,2018,Benguet,14,Province,CAR,population
+Magnitude of Subsistence Poor Population,2018,Ifugao,4,Province,CAR,population
+Magnitude of Subsistence Poor Population,2018,Kalinga,5,Province,CAR,population
+Magnitude of Subsistence Poor Population,2018,Mt. Province,14,Province,CAR,population
+Magnitude of Subsistence Poor Population,2018,Region I,90,Region,Region I,population
+Magnitude of Subsistence Poor Population,2018,Ilocos Norte,1,Province,Region I,population
+Magnitude of Subsistence Poor Population,2018,Ilocos Sur,7,Province,Region I,population
+Magnitude of Subsistence Poor Population,2018,La Union,3,Province,Region I,population
+Magnitude of Subsistence Poor Population,2018,Pangasinan,79,Province,Region I,population
+Magnitude of Subsistence Poor Population,2018,Region II,154,Region,Region II,population
+Magnitude of Subsistence Poor Population,2018,Batanes,0,Province,Region II,population
+Magnitude of Subsistence Poor Population,2018,Cagayan,51,Province,Region II,population
+Magnitude of Subsistence Poor Population,2018,Isabela,73,Province,Region II,population
+Magnitude of Subsistence Poor Population,2018,Nueva Vizcaya,24,Province,Region II,population
+Magnitude of Subsistence Poor Population,2018,Quirino,5,Province,Region II,population
+Magnitude of Subsistence Poor Population,2018,Region III,173,Region,Region III,population
+Magnitude of Subsistence Poor Population,2018,Aurora,9,Province,Region III,population
+Magnitude of Subsistence Poor Population,2018,Bataan,17,Province,Region III,population
+Magnitude of Subsistence Poor Population,2018,Bulacan,39,Province,Region III,population
+Magnitude of Subsistence Poor Population,2018,Nueva Ecija,31,Province,Region III,population
+Magnitude of Subsistence Poor Population,2018,Pampanga,8,Province,Region III,population
+Magnitude of Subsistence Poor Population,2018,Tarlac,27,Province,Region III,population
+Magnitude of Subsistence Poor Population,2018,Zambales,42,Province,Region III,population
+Magnitude of Subsistence Poor Population,2018,Region IV-A,229,Region,Region IV-A,population
+Magnitude of Subsistence Poor Population,2018,Batangas,45,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2018,Cavite,53,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2018,Laguna,11,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2018,Quezon,91,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2018,Rizal,30,Province,Region IV-A,population
+Magnitude of Subsistence Poor Population,2018,Region IV-B,132,Region,Region IV-B,population
+Magnitude of Subsistence Poor Population,2018,Marinduque ,10,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2018,Occidental Mindoro,38,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2018,Oriental Mindoro,27,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2018,Palawan,34,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2018,Romblon,24,Province,Region IV-B,population
+Magnitude of Subsistence Poor Population,2018,Region V,424,Region,Region V,population
+Magnitude of Subsistence Poor Population,2018,Albay,74,Province,Region V,population
+Magnitude of Subsistence Poor Population,2018,Camarines Norte,49,Province,Region V,population
+Magnitude of Subsistence Poor Population,2018,Camarines Sur,163,Province,Region V,population
+Magnitude of Subsistence Poor Population,2018,Catanduanes,14,Province,Region V,population
+Magnitude of Subsistence Poor Population,2018,Masbate,70,Province,Region V,population
+Magnitude of Subsistence Poor Population,2018,Sorsogon,54,Province,Region V,population
+Magnitude of Subsistence Poor Population,2018,Region VI,322,Region,Region VI,population
+Magnitude of Subsistence Poor Population,2018,Aklan,11,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2018,Antique,31,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2018,Capiz,3,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2018,Guimaras,2,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2018,Iloilo,80,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2018,Negros Occidental,195,Province,Region VI,population
+Magnitude of Subsistence Poor Population,2018,Region VII,373,Region,Region VII,population
+Magnitude of Subsistence Poor Population,2018,Bohol,58,Province,Region VII,population
+Magnitude of Subsistence Poor Population,2018,Cebu,167,Province,Region VII,population
+Magnitude of Subsistence Poor Population,2018,Negros Oriental,145,Province,Region VII,population
+Magnitude of Subsistence Poor Population,2018,Siquijor,3,Province,Region VII,population
+Magnitude of Subsistence Poor Population,2018,Region VIII,463,Region,Region VIII,population
+Magnitude of Subsistence Poor Population,2018,Biliran,6,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2018,Eastern Samar,108,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2018,Leyte,177,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2018,Northern Samar,69,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2018,Southern Leyte,26,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2018,Samar,77,Province,Region VIII,population
+Magnitude of Subsistence Poor Population,2018,Region IX,461,Region,Region IX,population
+Magnitude of Subsistence Poor Population,2018,Zamboanga del Norte,228,Province,Region IX,population
+Magnitude of Subsistence Poor Population,2018,Zamboanga del Sur,128,Province,Region IX,population
+Magnitude of Subsistence Poor Population,2018,Zamboanga Sibugay,82,Province,Region IX,population
+Magnitude of Subsistence Poor Population,2018,Isabela City,22,Province,Region IX,population
+Magnitude of Subsistence Poor Population,2018,Region X,290,Region,Region X,population
+Magnitude of Subsistence Poor Population,2018,Bukidnon,119,Province,Region X,population
+Magnitude of Subsistence Poor Population,2018,Camiguin,5,Province,Region X,population
+Magnitude of Subsistence Poor Population,2018,Lanao del Norte,67,Province,Region X,population
+Magnitude of Subsistence Poor Population,2018,Misamis Occidental,41,Province,Region X,population
+Magnitude of Subsistence Poor Population,2018,Misamis Oriental,59,Province,Region X,population
+Magnitude of Subsistence Poor Population,2018,Region XI,288,Region,Region XI,population
+Magnitude of Subsistence Poor Population,2018,Davao del Norte,34,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2018,Davao del Sur,82,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2018,Davao Oriental,38,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2018,Davao de Oro,59,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2018,Davao Occidental,75,Province,Region XI,population
+Magnitude of Subsistence Poor Population,2018,Region XII,546,Region,Region XII,population
+Magnitude of Subsistence Poor Population,2018,Cotabato,174,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2018,Sarangani,124,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2018,South Cotabato,94,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2018,Sultan Kudarat,110,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2018,Cotabato City,43,Province,Region XII,population
+Magnitude of Subsistence Poor Population,2018,Region XIII,270,Region,Region XIII,population
+Magnitude of Subsistence Poor Population,2018,Agusan del Norte,60,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2018,Agusan del Sur,93,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2018,Surigao Del Norte,56,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2018,Surigao Del Sur,48,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2018,Dinagat Islands,13,Province,Region XIII,population
+Magnitude of Subsistence Poor Population,2018,ARMM,1213,Region,ARMM,population
+Magnitude of Subsistence Poor Population,2018,Basilan,157,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2018,Lanao del Sur,423,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2018,Maguindanao,255,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2018,Sulu,365,Province,ARMM,population
+Magnitude of Subsistence Poor Population,2018,Tawi-tawi,14,Province,ARMM,population
