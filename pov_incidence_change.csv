@@ -1,18 +1,18 @@
-,Variable,Province,Value,Admin_Lvl,Region,Unit
-0,Change in poverty incidence in 1991 vs 2015 (%),ARMM,23.200000000000003,Region,ARMM,%
-1,Change in poverty incidence in 1991 vs 2015 (%),CAR,-23.000000000000004,Region,CAR,%
-2,Change in poverty incidence in 1991 vs 2015 (%),Region XIII,-15.199999999999996,Region,Region XIII,%
-3,Change in poverty incidence in 1991 vs 2015 (%),NCR,-3.1999999999999997,Region,NCR,%
-4,Change in poverty incidence in 1991 vs 2015 (%),Region I,-23.5,Region,Region I,%
-5,Change in poverty incidence in 1991 vs 2015 (%),Region II,-26.999999999999996,Region,Region II,%
-6,Change in poverty incidence in 1991 vs 2015 (%),Region III,-9.900000000000002,Region,Region III,%
-7,Change in poverty incidence in 1991 vs 2015 (%),Region IV-A,-13.6,Region,Region IV-A,%
-8,Change in poverty incidence in 1991 vs 2015 (%),Region IV-B,-20.0,Region,Region IV-B,%
-9,Change in poverty incidence in 1991 vs 2015 (%),Region IX,-6.399999999999999,Region,Region IX,%
-10,Change in poverty incidence in 1991 vs 2015 (%),Region V,-18.5,Region,Region V,%
-11,Change in poverty incidence in 1991 vs 2015 (%),Region VI,-17.200000000000003,Region,Region VI,%
-12,Change in poverty incidence in 1991 vs 2015 (%),Region VII,-16.0,Region,Region VII,%
-13,Change in poverty incidence in 1991 vs 2015 (%),Region VIII,-11.299999999999997,Region,Region VIII,%
-14,Change in poverty incidence in 1991 vs 2015 (%),Region X,-10.0,Region,Region X,%
-15,Change in poverty incidence in 1991 vs 2015 (%),Region XI,-17.6,Region,Region XI,%
-16,Change in poverty incidence in 1991 vs 2015 (%),Region XII,-16.0,Region,Region XII,%
+,Province,Change,Admin_Lvl,Region,Unit,1991 Poverty Incidence,2021 Poverty Incidence
+0,CAR,-32.800000000000004,Region,CAR,%,42.7,9.9
+1,Region II,-27.4,Region,Region II,%,42.8,15.4
+2,Region V,-25.2,Region,Region V,%,54.5,29.3
+3,Region XII,-25.199999999999996,Region,Region XII,%,53.3,28.1
+4,Region IV-B,-23.599999999999998,Region,Region IV-B,%,44.4,20.8
+5,Region XI,-22.8,Region,Region XI,%,39.6,16.8
+6,Region I,-22.200000000000003,Region,Region I,%,36.6,14.4
+7,Region VIII,-21.1,Region,Region VIII,%,50.0,28.9
+8,Region XIII,-21.099999999999994,Region,Region XIII,%,54.3,33.2
+9,Region VI,-20.6,Region,Region VI,%,39.6,19.0
+10,Region X,-20.5,Region,Region X,%,46.6,26.1
+11,Region VII,-16.0,Region,Region VII,%,43.6,27.6
+12,Region IV-A,-12.5,Region,Region IV-A,%,22.7,10.2
+13,Region IX,-10.199999999999996,Region,Region IX,%,40.3,30.1
+14,Region III,-9.700000000000001,Region,Region III,%,21.1,11.4
+15,NCR,-3.5999999999999996,Region,NCR,%,7.1,3.5
+16,ARMM,6.700000000000003,Region,ARMM,%,30.5,37.2
