@@ -1,5 +1,5 @@
 # Philippine Poverty Statistics
-An exploratory data analysis of Philippine poverty data created for Thinking Machines Internship Exam 2023. Data includes given 1991-2015 data, appended FIES 2018 & 2021 data, and 2024 & 2027 poverty estimates personally calculated using ARIMA.
+An exploratory data analysis of Philippine poverty data. Data includes 1991-2015 data, appended FIES 2018 & 2021 data, and 2024 & 2027 poverty estimates personally calculated using ARIMA.
 
 ### 🔶 File List
 | Filename                    | Description                                                                                       |
